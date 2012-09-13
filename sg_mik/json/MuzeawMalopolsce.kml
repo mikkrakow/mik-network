@@ -1,0 +1,3181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Muzea w Małopolsce</name>
+  <description><![CDATA[Mapa wszystkich znanych MIK-owi muzeów (lub instytucji muzealnych dostępnych zwiedzającym) w Małopolsce charakteryzujących się:
+- stałą wystawą
+- kolekcją lub zbiorami
+- dostępnością wedle ustalonych zasad
+Sytuacja jest dynamiczna, dlatego część formacji może być nieaktualna. Mapę staramy się edytować na bieżąco.
+Kontakt: knas(nospam)mik.krakow.pl]]></description>
+  <Style id="style156">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style168">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style150">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style181">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style182">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style146">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style136">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style159">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style205">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style187">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style140">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style180">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style163">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style201">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style135">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style185">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style177">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style183">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style188">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style160">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style164">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style170">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style198">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style191">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style154">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style166">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style174">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style162">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style161">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style195">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style158">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style206">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style147">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style209">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style165">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style141">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style197">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style153">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style179">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style204">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style203">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style152">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style196">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style192">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style200">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style194">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style169">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style134">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style143">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style189">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style190">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style178">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style208">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style167">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style138">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style151">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style173">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style171">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style199">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style175">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style186">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style155">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style157">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style184">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style172">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style207">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style193">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style176">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style139">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style148">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/pl_pl/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style145">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style202">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style149">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Izba Regionalna Ziemi Andrychowskiej w Andrychowie</name>
+    <description><![CDATA[zbiory andrychowskie
+]]></description>
+    <styleUrl>#style156</styleUrl>
+    <Point>
+      <coordinates>19.342052,49.854324,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Miejskie w Wadowicach</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://www.wck.wadowice.pl/Muzeum.14.0.html" target="_blank"><br></a>historia i kultura międzywojennych Wadowic<br><br><a href="http://www.wck.wadowice.pl/Muzeum.14.0.html" target="_blank">Muzeum Miejskie w Wadowicach</a></div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>19.494081,49.883465,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum - Orawski Park Etnograficzny w Zubrzycy Górnej</name>
+    <description><![CDATA[<div dir="ltr">skansen architektury orawskiej i zbiory orawskiej kultury ludowej<br><br><a href="http://www.orawa.eu/" target="_blank">Muzeum - Orawski Park Etnograficzny w Zubrzycy Górnej</a></div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>19.636129,49.570454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Bieckiej w Bieczu</name>
+    <description><![CDATA[<div dir="ltr">zbiory bieckie, historia aptekarstwa, zabytkowe obiekty miejskie<br><br><a href="http://muzeum.biecz.pl/" target="_blank">Muzeum Ziemi Bieckiej w Bieczu</a></div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>21.248417,49.730026,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Etnograficzne w Krakowie</name>
+    <description><![CDATA[<div dir="ltr">etnograficzne zbiory sztuki i kultury, zabytkowy ratusz Kazimierza<br><br><a href="http://www.mek.krakow.pl/" target="_blank">Muzeum Etnograficzne w Krakowie</a></div>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>19.943565,50.048519,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Inżynierii Miejskiej w Krakowie</name>
+    <description><![CDATA[<div dir="ltr">historia techniki, inżynieria miejska Krakowa, zabytkowa zajezdnia tramwajowa <br><br><a href="http://www.mimk.com.pl/" target="_blank">Muzeum Inżynierii Miejskiej w Krakowie</a></div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>19.947487,50.049828,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne w Starym Sączu im. Seweryna Udzieli</name>
+    <description><![CDATA[<div dir="ltr">zbiory starosądeckie, ksiądz J. Tischner, zabytkowy dom kupiecki<br><br><a href="http://www.muzeum.stary.sacz.pl/" target="_blank">Muzeum Regionalne w Starym Sączu im. Seweryna Udzieli</a></div>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>20.636263,49.563412,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im. Stanisława Fischera w Bochni</name>
+    <description><![CDATA[<div dir="ltr">zbiory bocheńskie, sztuka, zabytkowy budynek klasztorny<br><br><a href="http://www.muzeum.bochnia.pl/" target="_blank">Muzeum im. Stanisława Fischera w Bochni</a></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>20.431158,49.969242,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Dom Gotycki</name>
+    <description><![CDATA[<div dir="ltr">zbiory nowosądeckie, sztuka religijna, zabytkowy budynek kanoników sądeckich<br><br><a href="http://www.muzeum.sacz.pl/pl" target="_blank">Muzeum Okręgowe w Nowym Sączu - Dom Gotycki</a></div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>20.693598,49.624626,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GDDKiA - Wydział Historii Drogownictwa w Szczucinie</name>
+    <description><![CDATA[<div dir="ltr">zbiory historii drogownictwa <br><br><a href="http://www.gddkia.gov.pl/article/oddzialy/wydzial_historii_drogownictwa/index.php/id_item_tree/b43190839665a7efbf0ca0b5b685c11d" target="_blank">GDDKiA - Wydział Historii Drogownictwa w Szczucinie</a></div>]]></description>
+    <styleUrl>#style168</styleUrl>
+    <Point>
+      <coordinates>21.072464,50.302937,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Zagroda Felicji Curyłowej w Zalipiu</name>
+    <description><![CDATA[<div dir="ltr">zbiory zalipańskie, zabytkowa malowana zagroda chłopska<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=6" target="_blank">Muzeum Okręgowe w Tarnowie - Zagroda Felicji Curyłowej w Zalipiu</a></div>]]></description>
+    <styleUrl>#style150</styleUrl>
+    <Point>
+      <coordinates>20.846342,50.239822,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dom Malarek w Zalipiu</name>
+    <description><![CDATA[<div dir="ltr">zbiory zalipiańskie ze szczególnym uwzględnieniem sztuki zdobnictwa i malarstwa</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>20.849562,50.239796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Niedzicy</name>
+    <description><![CDATA[<div dir="ltr">zbiory spiskie, etnografia Spisza, zabytkowy zamek i budynki drewniane<br><br><a href="http://www.shs.pl/" target="_blank">Zamek w Niedzicy</a></div>]]></description>
+    <styleUrl>#style181</styleUrl>
+    <Point>
+      <coordinates>20.319128,49.422321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pieniński Park Narodowy - Ruiny Zamku w Czorsztynie</name>
+    <description><![CDATA[<div dir="ltr">ruiny zamku</div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>20.313442,49.434868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ośrodek Kultury Turystyki Górskiej w Pieninach - Schronisko PTTK &quot;Orlica&quot; w Szczawnicy</name>
+    <description><![CDATA[<div dir="ltr">&nbsp;zbiory historii i kultury turystyki w rejonie Pienin <br><br><a href="http://cotg.pttk.pl/oktg.php" target="_blank">Ośrodek Kultury Turystyki Górskiej w Pieninach - Schronisko PTTK "Orlica" w Szczawnicy</a></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>20.458076,49.419205,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Muzeum Pienińskie im. Józefa Szalaya w Szczawnicy</name>
+    <description><![CDATA[<div dir="ltr">zbiory pienińskie, historia i kultura Szczawnicy, zabytkowy budynek uzdrowiskowy<br><br><a href="http://www.muzeum.sacz.pl/pl/551/0/Muzeum_Pieninskie_w_Szczawnicy.html" target="_blank">Muzeum Okręgowe w Nowym Sączu - Muzeum Pienińskie im. Józefa Szalaya w Szczawnicy</a></div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>20.487453,49.429008,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Muzeum Etnograficzne w Tarnowie</name>
+    <description><![CDATA[<div dir="ltr">zbiory etnograficzne, zbiory romskie, zabytkowy budynek drewniany<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=3" target="_blank">Muzeum Okręgowe w Tarnowie - Muzeum Etnograficzne w Tarnowie</a></div>]]></description>
+    <styleUrl>#style182</styleUrl>
+    <Point>
+      <coordinates>20.984819,50.011688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pieniński Park Narodowy - Muzeum Przyrodnicze w Krościenku </name>
+    <description><![CDATA[<div dir="ltr">zbiory pienińskie, przyroda i kultura Pienin<br><br><a href="http://www.pieninypn.pl" target="_blank">Pieniński Park Narodowy - Muzeum Przyrodnicze w Krościenku </a></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>20.419056,49.440464,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PKP Cargo - Skansen Taboru Kolejowego w Chabówce</name>
+    <description><![CDATA[<div dir="ltr">zbiory kolejowe, zabytkowe pomieszczenia zakładów naprawczych, czynna parowozownia<br><br><a href="http://www.skansen.hg.pl/" target="_blank">PKP Cargo - Skansen Taboru Kolejowego w Chabówce</a></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>19.928471,49.596096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sądecki Bartnik - Muzeum Pszczelarstwa w Stróżach </name>
+    <description><![CDATA[<div dir="ltr">zbiory pszczelarskie i o pszczołach, czynna pasieka, zabytkowe budynki pasieczne<br><br><a href="http://mikkrakow.nazwa.pl/Bartnik/" target="_blank">Sądecki Bartnik - Muzeum Pszczelarstwa w Stróżach </a></div>]]></description>
+    <styleUrl>#style146</styleUrl>
+    <Point>
+      <coordinates>20.975389,49.658073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Gmach Główny</name>
+    <description><![CDATA[<div dir="ltr">zbiory tarnowskie, zbiory sztuki, zabytkowy budynek przy rynku<br><br><a href="http://www.muzeum.tarnow.pl/" target="_blank">Muzeum Okręgowe w Tarnowie - Gmach Główny</a></div>]]></description>
+    <styleUrl>#style136</styleUrl>
+    <Point>
+      <coordinates>20.988394,50.012871,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Ratusz w Tarnowie</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki, zabytkowy ratusz miejski<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=2" target="_blank">Muzeum Okręgowe w Tarnowie - Ratusz w Tarnowie</a></div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>20.988510,50.012402,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Diecezjalne w Tarnowie</name>
+    <description><![CDATA[<div dir="ltr">historia diecezji tarnowskiej, zbiory małopolskiej sztuki sakralnej <br><br><a href="http://www.muzeum.diecezja.tarnow.pl/" target="_blank">Muzeum Diecezjalne w Tarnowie</a></div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>20.986645,50.012985,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne w Grybowie</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej, zbiory grybowskie, zabytkowy budynek plebanii </div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>20.948353,49.626724,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Gmach Główny</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki, historia i kultura polska<br><br><a href="http://www.muzeum.krakow.pl/" target="_blank">Muzeum Narodowe w Krakowie - Gmach Główny</a></div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>19.923857,50.059963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>PZU S.A. - Muzeum Ubezpieczeń w Krakowie</name>
+    <description><![CDATA[<div dir="ltr">historia ubezpieczeń, zbiory dokumentów ubezpieczeniowych <br><br><a href="http://www.pzu.pl/?nodeid=80" target="_blank">PZU S.A. - Muzeum Ubezpieczeń w Krakowie</a></div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>19.933287,50.063801,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Dwór w Dołędze</name>
+    <description><![CDATA[<div dir="ltr">zbiory kultury szlacheckiej, zabytkowy dwór drewniany<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=5" target="_blank">Muzeum Okręgowe w Tarnowie - Dwór w Dołędze</a></div>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>20.702385,50.134197,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Zamek z Dębnie</name>
+    <description><![CDATA[<div dir="ltr">zabytkowy dwór obronny, kultura i historia rycerstwa i szlachty małopolskiej<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=4" target="_blank">Muzeum Okręgowe w Tarnowie - Zamek z Dębnie</a></div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>20.716696,49.965549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Babiogórski Park Narodowy - Muzeum Przyrodnicze w Zawoi </name>
+    <description><![CDATA[<div dir="ltr">historia i kultura regionu Babiej Góry, zbiory przyrodnicze i etnograficzne<br><br><a href="http://www.bgpn.pl/bgpn.php?wystawa" target="_blank">Babiogórski Park Narodowy - Muzeum Przyrodnicze w Zawoi </a></div>]]></description>
+    <styleUrl>#style159</styleUrl>
+    <Point>
+      <coordinates>19.517706,49.611782,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skansen im. Józefa Żaka &quot;Markowe Rówienki&quot; w Zawoi</name>
+    <description><![CDATA[<div dir="ltr">skansen budownictwa drewnianego Zawoi, zbiory etnograficzne rejonu Zawoi</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>19.515259,49.607986,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ośrodek Kultury Turystyki Górskiej - schronisko PTTK na Markowych Szczawinach</name>
+    <description><![CDATA[<div dir="ltr">historia turystyki na Babiej Górze, zbiory zabytków turystyki<br><br><a href="http://cotg.pttk.pl/oktg.php" target="_blank">Ośrodek Kultury Turystyki Górskiej - schronisko PTTK na Markowych Szczawinach</a></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>19.520216,49.585007,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skansen Budownictwa Drewnianego w Sidzinie</name>
+    <description><![CDATA[<div dir="ltr">zabytki budownictwa ludowego z rejony Sidziny, zbiory etnograficzne <br><a href="http://www.bystra-sidzina.pl/muzeum.html" target="_blank">Strona skansenu</a><br></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>19.692736,49.615631,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum - Nadwiślański Park Etnograficzny w Wygiełzowie i Zamek Lipowiec</name>
+    <description><![CDATA[<div dir="ltr">zbiory etnograficzne, skansen budownictwa drewnianego,zbiory kultury szlacheckiej, ruiny zamku<br><br><a href="http://www.mnpe.pl/" target="_blank">Muzeum - Nadwiślański Park Etnograficzny w Wygiełzowie i Zamek Lipowiec</a></div>]]></description>
+    <styleUrl>#style205</styleUrl>
+    <Point>
+      <coordinates>19.437143,50.075787,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dom Rodzinny Ojca Świętego Jana Pawła II</name>
+    <description><![CDATA[zbiory przedmiotów i dokumentów związane z Karolem Wojtyłą, zabytkowy dom miejski<br><br><a href="http://www.domrodzinnyjanapawla.pl/" target="_blank">Dom Rodzinny Ojca Świętego Jana Pawła II</a><br>]]></description>
+    <styleUrl>#style187</styleUrl>
+    <Point>
+      <coordinates>19.493910,49.883305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Żydowskie Galicja</name>
+    <description><![CDATA[<div dir="ltr">dokumentowanie dziedzictwa żydowskiego w Polsce, edukacja, <br><br><a href="http://www.galiciajewishmuseum.org/shop_pl/" target="_blank">Muzeum Żydowskie Galicja</a></div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>19.949509,50.050961,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Akademii Ekonomicznej w Krakowie</name>
+    <description><![CDATA[<div dir="ltr">zbiory historii Akademii Ekonomicznej</div>]]></description>
+    <styleUrl>#style140</styleUrl>
+    <Point>
+      <coordinates>19.953791,50.068447,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Archidiecezjalne w Krakowie</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej, historia kościoła, zabytkowe budynki kościelne<br><br><a href="http://www.muzeumkra.diecezja.pl/" target="_blank">Muzeum Archidiecezjalne w Krakowie</a></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>19.936935,50.055698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Botaniczne i Pracownia Historii Botaniki im. Jadwigi Dyakowskiej</name>
+    <description><![CDATA[zbiory botaniczne, historia botaniki<br><br><a href="http://www.ib.uj.edu.pl/" target="_blank">Muzeum Botaniczne i Pracownia Historii Botaniki im. Jadwigi Dyakowskiej</a>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>19.956043,50.063744,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Młodej Polski – „Rydlówka” Oddziału Krakowskiego PTTK</name>
+    <description><![CDATA[zbiory kultury ludowej, historia zainteresowania kulturą ludową, zabytkowy dwór drewniany<br><br><a href="http://www.krakow.pttk.pl/index.php?id=rydlowka" target="_blank">Muzeum Młodej Polski – „Rydlówka” Oddziału Krakowskiego PTTK</a>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>19.876440,50.088104,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Farmacji Collegium Medicum UJ</name>
+    <description><![CDATA[historia farmacji, zbiory przyrodnicze, medycyna i człowiek<br><br><a href="http://www.muzeumfarmacji.pl/" target="_blank">Muzeum Farmacji Collegium Medicum UJ</a>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>19.940508,50.063377,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum geologiczne AGH</name>
+    <description><![CDATA[zbiory geologiczne, historia geologii<br><br><a href="http://www.geol.agh.edu.pl/%7Emuzeum/" target="_blank">Muzeum geologiczne AGH</a>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>19.923620,50.064480,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historii Fotografii im.Walerego Rzewuskiego</name>
+    <description><![CDATA[zbiory fotograficzne, historia fotografii polskiej<br><br><a href="http://www.mhf.krakow.pl/" target="_blank">Muzeum Historii Fotografii im.Walerego Rzewuskiego</a>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>19.923609,50.070175,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historii Medycyny UJ</name>
+    <description><![CDATA[<div dir="ltr">historia medycyny, historia ludzkiego ciała<br><br><a href="http://www.uj.edu.pl/dispatch.jsp?item=uniwersytet/historia/muzeum_historii_medycyny.jsp" target="_blank">Muzeum Historii Medycyny UJ</a></div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>19.947149,50.061539,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczno-Misyjne Zgromadzenia Księży Misjonarzy św. Wincentego a Paulo</name>
+    <description><![CDATA[historia zgromadzenia, przedmioty zgromadzone w czasie misji <br><br><a href="http://www.muzeum.misjonarze.pl/" target="_blank">Muzeum Historyczno-Misyjne Zgromadzenia Księży Misjonarzy św. Wincentego a Paulo</a>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>19.939789,50.053593,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Armii Krajowem im. Generała Emila Fieldorfa &quot;Nila&quot;</name>
+    <description><![CDATA[historia państwa podziemnego, zabytki wojskowe, historia okupacji<br><br><a href="http://www.muzeum-ak.krakow.pl/index.php" target="_blank">Muzeum Armii Krajoweej im. Generała Emila Fieldorfa "Nila"</a>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>19.948854,50.071911,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Geologiczne Instytutu Nauk Geologicznych PAN</name>
+    <description><![CDATA[<div dir="ltr">historia geologii, zabytki geologiczne<br><br><a href="http://www.ing.pan.pl/muzeum/indeksm.htm" target="_blank">Muzeum Geologiczne Instytutu Nauk Geologicznych PAN</a></div>]]></description>
+    <styleUrl>#style180</styleUrl>
+    <Point>
+      <coordinates>19.936773,50.057560,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dworek Jana Matejki</name>
+    <description><![CDATA[zabytki związane z postacią Jana Matejki, historia okolic dworu, zabytkowy dwór podmiejski
+      ]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>20.056507,50.081268,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Zoologiczne UJ</name>
+    <description><![CDATA[zabytki przyrodnicze, historia zoologii<br><br><a href="http://www.binoz.uj.edu.pl/iz/index.php?idz=muzea" target="_blank">Muzeum Zoologiczne UJ</a><br>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>19.920895,50.062111,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum archeologiczne w Krakowie</name>
+    <description><![CDATA[zabytki archeologii i sztuki, historia archeologii, zabytkowy budynek poklasztorny<br><br><a href="http://www.ma.krakow.pl/" target="_blank">Muzeum archeologiczne w Krakowie</a><br>]]></description>
+    <styleUrl>#style144</styleUrl>
+    <Point>
+      <coordinates>19.936302,50.057568,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Archeologiczne w Krakowie - oddział w Branicach</name>
+    <description><![CDATA[zabytki archeologii Małopolski, zabytkowy dwór<br><br><a href="http://www.ma.krakow.pl/oddzial_Nowa_Huta/informacje_ogolne" target="_blank">Muzeum Archeologiczne w Krakowie - oddział w Branicach</a><br>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>20.134495,50.068855,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Archeologiczne w Krakowie - podziemia kościoła św. Wojciecha</name>
+    <description><![CDATA[zabytkowe podziemia kościoła św. Wojciecha w rynku krakowskim<br><br><a href="http://www.ma.krakow.pl/" target="_blank">Muzeum Archeologiczne w Krakowie</a> - podziemia kościoła św. Wojciecha<br>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>19.937654,50.061127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Czynu Niepodległościowego - Dom im. Józefa Piłsudskiego</name>
+    <description><![CDATA[zabytki związane z J. Piłsudskim, historia powstania państwa polskiego po I wojnie światowej, historia legionów<br><br><a href="http://www.krakow.pl/kultura/instytucje/?INS_TYP=2&amp;INS_ID=179" target="_blank">Muzeum Czynu Niepodległościowego - Dom im. Józefa Piłsudskiego</a>]]></description>
+    <styleUrl>#style163</styleUrl>
+    <Point>
+      <coordinates>19.920563,50.059902,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Przyrodnicze PAN w Krakowie</name>
+    <description><![CDATA[zbiory przyrodnicze, historia nauk przyrodoznawczych<br><br><a href="http://www.isez.pan.krakow.pl/museum/museum.htm" target="_blank">Muzeum Przyrodnicze PAN w Krakowie</a><br>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>19.941280,50.055595,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Uniwersytetu Jagiellońskiego Collegium Maius</name>
+    <description><![CDATA[historia Uniwersytetu Jagiellońskiego, zabytki uniwersyteckie<br><br><a href="http://www3.uj.edu.pl/Muzeum/" target="_blank">Muzeum Uniwersytetu Jagiellońskiego Collegium Maius</a>]]></description>
+    <styleUrl>#style201</styleUrl>
+    <Point>
+      <coordinates>19.934145,50.061604,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Katedralne Jana Pawła II</name>
+    <description><![CDATA[<div dir="ltr">zbiory skarbca katedralnego na Wawelu, sztuka sakralna, historia katedry wawelskiej, zabytkowe obiekty wawelskie</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>19.934671,50.054646,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Gmach Główny Pałac &quot;Kszysztofory&quot;</name>
+    <description><![CDATA[historia i kultura Krakowa, zbiory sztuki, zabytkowy pałac krakowski<br><br><a href="http://www.mhk.pl/" target="_blank">Muzeum Historyczne Miasta Krakowa - Gmach Główny Pałac "Kszysztofory"</a><br>]]></description>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>19.936731,50.062664,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Stara Synagoga</name>
+    <description><![CDATA[historia społeczności żydowskiej w Krakowie, zabytki kultury, zabytkowa synagoga<br><br><a href="http://mhk.pl/oddzialy/stara_synagoga" target="_blank">Muzeum Historyczne Miasta Krakowa - Stara Synagoga</a><br>]]></description>
+    <styleUrl>#style135</styleUrl>
+    <Point>
+      <coordinates>19.948597,50.051579,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Apteka Pod Orłem </name>
+    <description><![CDATA[historia getta krakowskiego, zabytki kultury żydowskiej, historia farmacji<br><br><a href="http://mhk.pl/oddzialy/apteka_pod_orlem" target="_blank">Muzeum Historyczne Miasta Krakowa - Apteka Pod Orłem </a><br>]]></description>
+    <styleUrl>#style185</styleUrl>
+    <Point>
+      <coordinates>19.954197,50.046268,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Ulica Pomorska </name>
+    <description><![CDATA[historia okupacji Krakowa podczas II wojny światowej<br><br><a href="http://mhk.pl/oddzialy/ulica_pomorska" target="_blank">Muzeum Historyczne Miasta Krakowa - Ulica Pomorska </a><br>]]></description>
+    <styleUrl>#style177</styleUrl>
+    <Point>
+      <coordinates>19.924866,50.070301,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Kamienica Hippolitów</name>
+    <description><![CDATA[historia mieszczaństwa krakowskiego, zabytki kultury miejskiej, zabytkowy dom mieszczański <br><br><a href="http://mhk.pl/oddzialy/kamienica_hipolitow" target="_blank">Muzeum Historyczne Miasta Krakowa - Kamienica Hippolitów</a><br>]]></description>
+    <styleUrl>#style183</styleUrl>
+    <Point>
+      <coordinates>19.940325,50.061810,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Wieża Ratuszowa</name>
+    <description><![CDATA[historia władzy miejskiej, zabytki kultury miejskiej, zabytkowa wieża ratuszowa<br><br><a href="http://mhk.pl/oddzialy/wieza_ratuszowa" target="_blank">Muzeum Historyczne Miasta Krakowa - Wieża Ratuszowa</a><br>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>19.936344,50.061478,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Barbakan</name>
+    <description><![CDATA[historia systemów obronnych miasta, zabytki historii wojskowości, zabytkowy barbakan miejski<br><br><a href="http://mhk.pl/oddzialy/barbakan" target="_blank">Muzeum Historyczne Miasta Krakowa - Barbakan</a><br>]]></description>
+    <styleUrl>#style188</styleUrl>
+    <Point>
+      <coordinates>19.941612,50.065365,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowowa - Mury Obronne</name>
+    <description><![CDATA[zabytki miejskiego systemu obrony, historia militarna miasta, zabytkowe mury krakowskie<br><br><a href="http://mhk.pl/oddzialy/mury_obronne" target="_blank">Muzeum Historyczne Miasta Krakowowa - Mury Obronne</a><br>]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>19.941956,50.064754,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Celestat</name>
+    <description><![CDATA[historia Bractwa Kurkowego w Krakowie, zbiory sztuki, zabytkowy budynek<br><br><a href="http://mhk.pl/oddzialy/celestat" target="_blank">Muzeum Historyczne Miasta Krakowa - Celestat</a><br>]]></description>
+    <styleUrl>#style160</styleUrl>
+    <Point>
+      <coordinates>19.949808,50.065411,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Dzieje Nowej Huty</name>
+    <description><![CDATA[historia i kultura Nowej Huty<br><br><a href="http://mhk.pl/oddzialy/dzieje_nowej_huty" target="_blank">Muzeum Historyczne Miasta Krakowa - Dzieje Nowej Huty</a><br>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>20.039589,50.077187,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Zwierzyniecki Salon Artystyczny</name>
+    <description><![CDATA[historia i kultura dzielnicy Zwierzyniec<br><br><a href="http://mhk.pl/oddzialy/zwierzyniecki_salon_artystyczny" target="_blank">Muzeum Historyczne Miasta Krakowa - Zwierzyniecki Salon Artystyczny</a><br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>19.910124,50.054577,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Dom Pod Krzyżem</name>
+    <description><![CDATA[historia teatru w Krakowie, zabytki teatralne i zbiory sztuki, zabytkowy budynek<br><br><a href="http://mhk.pl/oddzialy/dom_pod_krzyzem" target="_blank">Muzeum Historyczne Miasta Krakowa - Dom Pod Krzyżem</a><br>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>19.941795,50.063400,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Pałac Biskupa Erazma Ciołka</name>
+    <description><![CDATA[sztuka sakralna Małopolski i Krakowa, zabytkowy pałac biskupi<br><br><a href="http://www.muzeum.krakow.pl/Palac-biskupa-Ciolka.50.0.html" target="_blank">Muzeum Narodowe w Krakowie - Pałac Biskupa Erazma Ciołka</a><br>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>19.937140,50.055962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Sukiennice</name>
+    <description><![CDATA[galeria malarstwa polskiego, historia malarstwa, zabytkowy budynek handlowy<br><br><a href="http://www.muzeum.krakow.pl/Sukiennice.56.0.html" target="_blank">Muzeum Narodowe w Krakowie - Sukiennice</a><br>]]></description>
+    <styleUrl>#style164</styleUrl>
+    <Point>
+      <coordinates>19.937332,50.061749,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Dom Jana Matejki</name>
+    <description><![CDATA[zabytki związane z Janem Matejką, zbiory malarstwa J. Matejki, zabytkowy dom rodziny Matejków<br><br><a href="http://www.muzeum.krakow.pl/Dla-zwiedzajacych.63.0.html?&amp;L=0" target="_blank">Muzeum Narodowe w Krakowie - Dom Jana Matejki</a><br>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>19.940893,50.063984,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Muzeum Stanisława Wyspiańskiego</name>
+    <description><![CDATA[zbiory malarstwa Wyspiańskiego, pamiątki po Wyspiańskim, zbiory malarstwa, zabytkowy budynek<br><br><a href="http://www.muzeum.krakow.pl/Muzeum-Wyspianskiego.68.0.html" target="_blank">Muzeum Narodowe w Krakowie - Muzeum Stanisława Wyspiańskiego</a><br>]]></description>
+    <styleUrl>#style170</styleUrl>
+    <Point>
+      <coordinates>19.935980,50.063229,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Dom Józefa Mehoffera</name>
+    <description><![CDATA[zbiory malarstwa Mehoffera, pamiątki po malarzu, zbiory sztuki, zabytkowy dom<br><br><a href="http://www.muzeum.krakow.pl/Dom-Mehoffera.74.0.html" target="_blank">Muzeum Narodowe w Krakowie - Dom Józefa Mehoffera</a><br>]]></description>
+    <styleUrl>#style198</styleUrl>
+    <Point>
+      <coordinates>19.928555,50.063412,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Muzeum Karola Szymanowskiego w Zakopanem</name>
+    <description><![CDATA[zbiory sztuki, zbiory pamiątek po K. Szymanowskim, historia kultury w Zakopanem, zabytkowa willa<br><br><a href="http://www.muzeum.krakow.pl/Muzeum-Szymanowskiego.80.0.html" target="_blank">Muzeum Narodowe w Krakowie - Muzeum Karola Szymanowskiego w Zakopanem</a><br>]]></description>
+    <styleUrl>#style137</styleUrl>
+    <Point>
+      <coordinates>19.948071,49.293968,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Muzeum im. Emeryka Hutten-Czapskiego </name>
+    <description><![CDATA[zbiory numizmatyczne i historyczne, pamiątki po rodzinie Czapskich, zabytkowy pałac<br><br><a href="http://www.muzeum.krakow.pl/Muzeum-Hutten-Czapskiego.85.0.html" target="_blank">Muzeum Narodowe w Krakowie - Muzeum im. Emeryka Hutten-Czapskiego </a><br>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>19.929756,50.060040,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Muzeum Książąt Czartoryskich</name>
+    <description><![CDATA[zbiory artystyczne, kolekcje sztuki, zabytkowy budynek arsenału miejskiego<br><br><a href="http://www.muzeum.krakow.pl/Muzeum-Ksiazat-Czartoryskich.89.0.html" target="_blank">Muzeum Narodowe w Krakowie - Muzeum Książąt Czartoryskich</a><br>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>19.939798,50.064617,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Narodowe w Krakowie - Biblioteka Książąt Czartoryskich</name>
+    <description><![CDATA[zbiory archiwaliów i dokumentów, zbiory biblioteczne<br><br><a href="http://www.muzeum.krakow.pl/O-bibliotece.96.0.html?L=0" target="_blank">Muzeum Narodowe w Krakowie - Biblioteka Książąt Czartoryskich</a><br>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>19.939606,50.063812,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Sztuki i Techniki Japońskiej &quot;Manggha&quot;</name>
+    <description><![CDATA[kolekcja sztuki japońskiej<br><br><a href="http://www.manggha.krakow.pl/" target="_blank">Muzeum&nbsp;Sztuki i Techniki Japońskiej "Manggha"</a>]]></description>
+    <styleUrl>#style191</styleUrl>
+    <Point>
+      <coordinates>19.931366,50.050884,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek Królewski na Wawelu</name>
+    <description><![CDATA[historia Polski, zbiory kultury i historii polskiej, historia wzgórza wawelskiego, zabytkowe obiekty<br><br><a href="http://www.wawel.krakow.pl/pl/index.php" target="_blank">Zamek Królewski na Wawelu</a><br>]]></description>
+    <styleUrl>#style154</styleUrl>
+    <Point>
+      <coordinates>19.936625,50.054451,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek Królewski na Wawelu - Zamek w Pieskowej Skale</name>
+    <description><![CDATA[historia zamku i rezydencji, kolekcje sztuki, zabytkowy pałac<br><br><a href="http://www.pieskowaskala.eu/index.php?page=Start" target="_blank">Zamek Królewski na Wawelu - Zamek w Pieskowej Skale</a><br>]]></description>
+    <styleUrl>#style166</styleUrl>
+    <Point>
+      <coordinates>19.780090,50.244255,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> Zamek królewski na Wawelu - Dwór w Stryszowie </name>
+    <description><![CDATA[historia i kultura rezydencji szlacheckich, zbiory sztuki, zabytkowy dwór<br><br><a href="http://www.dwor.stryszow.pl/" target="_blank">Zamek królewski na Wawelu - Dwór w Stryszowie </a><br>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>19.618835,49.824669,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Lotnictwa Polskiego w Krakowie</name>
+    <description><![CDATA[<div dir="ltr">historia lotnictwa polskiego, zbiory lotnicze, zabytkowe lotnisko wojskowe<br><br><a href="http://www.muzeumlotnictwa.pl/" target="_blank">Muzeum Lotnictwa Polskiego w Krakowie</a></div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>19.990622,50.076492,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Starego Teatru w Krakowie</name>
+    <description><![CDATA[historia Teatru Starego, zabytki teatralne, zabytkowy teatr, pamiątki po ludziach teatru<br><br><a href="http://www.stary-teatr.krakow.pl/muzeum.php5" target="_blank">Muzeum Starego Teatru w Krakowie</a><br>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>19.935572,50.063232,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Podziemia Rynku (w organizacji)</name>
+    <description><![CDATA[<div dir="ltr"><br>ekspozycja wykopalisk pod rynkiem krakowskim, historia i kultura średniowiecznego rynku miejskiego<br></div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>19.937880,50.061718,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczne Miasta Krakowa - Fabryka Schindlera</name>
+    <description><![CDATA[<div dir="ltr">ekspozycja o okupacji Krakowa w czasie II wojny światowej  i historii Żydów krakowskich<br>&nbsp;<br></div>
+
+<a href="http://www.mhk.pl/oddzialy/fabryka_schindlera" target="_blank">Muzeum Historyczne Miasta Krakowa - Fabryka Schindlera
+
+</a>]]></description>
+    <styleUrl>#style174</styleUrl>
+    <Point>
+      <coordinates>19.962587,50.047440,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im. Prof.. Władysława Szafera w Ojcowie</name>
+    <description><![CDATA[zbiory przyrodnicze Ojcowskiego Parku Narodowego<br><br><a href="http://opn.most.org.pl/muzeum.htm" target="_blank">Muzeum im. Prof.. Władysława Szafera w Ojcowie</a><br>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>19.829367,50.209969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne PTTK w Ojcowie</name>
+    <description><![CDATA[<div dir="ltr">historia kultury i turystyki w okolicach Ojcowa</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>19.829100,50.208344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne PTTK i Urzędu Gminy Iwanowice</name>
+    <description><![CDATA[<div dir="ltr">zbiory regionalne z terenu gminy Iwanowice</div>]]></description>
+    <styleUrl>#style162</styleUrl>
+    <Point>
+      <coordinates>19.962460,50.225521,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Słomnickiej w Słomnikach </name>
+    <description><![CDATA[<div dir="ltr">zbiory regionalne z okolic Słomnik</div><div dir="ltr"><br>&nbsp;</div><div dir="ltr"><a href="http://mgckslomniki.pl/www/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=13" target="_blank">strona muzeum</a> &nbsp;<br>&nbsp;</div>]]></description>
+    <styleUrl>#style161</styleUrl>
+    <Point>
+      <coordinates>20.082150,50.240425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ślusarstwa i Kłódkarstwa w Świątnikach Górnych </name>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style195</styleUrl>
+    <Point>
+      <coordinates>19.943983,49.934464,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne w Skawinie</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://www.muzeum-skawina.pl/" target="_blank">Strona muzeum</a></div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>19.826921,49.975105,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im. Aleksandra Kłosińskiego w Kętach </name>
+    <description><![CDATA[historia i kultura Kęt, zabytkowy dom przyrynkowy <br><br><a href="http://muzeum.kety.pl/" target="_blank"><span style="font-size:12pt;color:black">Muzeum im. Aleksandra Kłosińskiego w Kętach </span></a>]]></description>
+    <styleUrl>#style158</styleUrl>
+    <Point>
+      <coordinates>19.221289,49.883286,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum - Zamek Książąt Oświęcimskich</name>
+    <description><![CDATA[zabytkowy zamek oświęcimski, historia i kultura miasta Oświęcimia <br><br><a href="http://www.ock.org.pl/menul.php?mid=495" target="_blank">Muzeum - Zamek Książąt Oświęcimskich</a><br>]]></description>
+    <styleUrl>#style206</styleUrl>
+    <Point>
+      <coordinates>19.219486,50.040123,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Państwowe Muzeum Auschwitz-Birkenau </name>
+    <description><![CDATA[dawny niemiecki obóz koncentracyjny w Oświęcimiu <br><br><a href="http://www.auschwitz.org.pl/" target="_blank">Państwowe Muzeum Auschwitz-Birkenau </a><br>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>19.204874,50.028446,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Państwowe Muzeum Auschwitz-Birkenau (Brzezinka) </name>
+    <description><![CDATA[dawny podobóz koncentracyjny w Brzezince<br><br><a href="http://www.auschwitz.org.pl/" target="_blank"><span style="font-size:12pt;color:black">Państwowe Muzeum Auschwitz-Birkenau (Brzezinka) </span></a>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>19.190712,50.042728,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Proszowickiej (projektowane)</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura okolic Proszowic<br>&nbsp;</div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>20.288465,50.193233,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Koszyckiej - Bożnica</name>
+    <description><![CDATA[<div dir="ltr">zabytkowa bożnica, zbiory regionalne<br></div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>20.577520,50.170574,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Miechowskiej (w organizacji)</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Miechowa<br>&nbsp;</div><div dir="ltr"><br>&nbsp;</div><div dir="ltr"><a href="http://muzeum.miechow.net/oglo.html" target="_blank">strona muzeum</a></div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>20.026283,50.357536,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Afrykanistyczne im. dr Bogdana Szczygła w Olkuszu</name>
+    <description><![CDATA[zbiory afrykanistyczne (kolekcja Bogdana Szczygła)<br><br><a href="http://www.afryka.olkusz.pl/index2.php?menu=informacje.php" target="_blank"><font size="2"><strong style="font-weight:normal"><span style="font-size:12pt"><span style="font-weight:bold"></span>Muzeum Afrykanistyczne im. dr Bogdana Szczygła w Olkuszu</span></strong></font></a>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>19.561255,50.277554,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne PTTK im. Antoniego Minkiewicza w Olkuszu</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Olkusza i okolic<br></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>19.559290,50.278961,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Pożarnictwa Ziemi Olkuskiej</name>
+    <description><![CDATA[<strong style="font-weight:normal">historia pożarnictwa<span style="font-weight:bold"><span style="font-weight:bold"> </span></span>w Oluszu, zbiory strażackie<br></strong>]]></description>
+    <styleUrl>#style147</styleUrl>
+    <Point>
+      <coordinates>19.560471,50.279728,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Małopolskie Muzeum Pożarnictwa w Alwerni im. Zbigniewa Gęsikowskiego</name>
+    <description><![CDATA[<div dir="ltr">historia pożarnictwa w Małopolsce, zbiory strażackie</div>]]></description>
+    <styleUrl>#style209</styleUrl>
+    <Point>
+      <coordinates>19.537939,50.069309,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum w Chrzanowie im. Ireny i Mieczysława Mazarakich</name>
+    <description><![CDATA[historia i kultura Chrzanowa, zbiory sztuki, zabytkowe budynki miejskie<br><br><a href="http://www.muzeum.chrzanow.pl/" target="_blank">Muzeum w Chrzanowie im. Ireny i Mieczysława Mazarakich</a>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>19.401941,50.143478,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum I Pułku Strzelców Podhalańskich Armii Krajowej w Szczawie (Filia Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">historia partyzantki w Małopolsce podczas II wojny światowej, historia ruchu oporu</div>]]></description>
+    <styleUrl>#style165</styleUrl>
+    <Point>
+      <coordinates>20.296555,49.603477,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Klasztorne O.O. Cystersów w Szczyrzycu</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki klasztoru w Szczyrzycu, zbiory militariów i numizmatyki, historia klasztoru, zabytkowy klasztor <br><br><a href="http://www.szczyrzyc.cystersi.pl/index.php?menu=historia&amp;temat=muzeumhistoria" target="_blank">Muzeum Klasztorne O.O. Cystersów w Szczyrzycu</a></div>]]></description>
+    <styleUrl>#style141</styleUrl>
+    <Point>
+      <coordinates>20.190598,49.781834,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum parafialne w Dobrej (filia Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej, historia Dobrej<br></div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>20.251106,49.717098,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne Ziemi Limanowskiej &quot;Dworek Marsów&quot; w Limanowej</name>
+    <description><![CDATA[<span style="font-size:12pt">zabytkowy dwór, zbiory regionalne, historia i kultura Limanowej<br></span>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>20.418949,49.704826,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Sanktuaryjne w Limanowej (Muzeum Parafialne przy Bazylice Matki Boskiej Bolesnej)</name>
+    <description><![CDATA[
+
+zbiory sztuki sakralnej, historia sanktuarium w Limanowej<br><p></p></p>
+
+]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>20.420740,49.706497,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skansen Budownictwa Ludowego w Laskowej</name>
+    <description><![CDATA[<span style="font-size:12pt">skansen budownictwa ludowego, zbiory regionalne<br></span>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>20.450834,49.764107,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Biograficzne Władysława Orkana „Orkanówka” w Porębie Wielkiej </name>
+    <description><![CDATA[<div dir="ltr">postać i pamiątki po Władysławie Orkanie, zbiory regionalne, zabytkowa willa drewniana<br></div>]]></description>
+    <styleUrl>#style197</styleUrl>
+    <Point>
+      <coordinates>20.070175,49.605370,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Muzeum Wincentego Witosa</name>
+    <description><![CDATA[dom urodzenia Wincentego Witosa, pamiątki po tej postaci, historia ruchu ludowego, zabytkowa zagroda drewniana<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=7" target="_blank">Muzeum Okręgowe w Tarnowie - Muzeum Wincentego Witosa</a><br>]]></description>
+    <styleUrl>#style153</styleUrl>
+    <Point>
+      <coordinates>20.853081,50.022022,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Tarnowie - Muzeum Pamiątek po Janie Matejce</name>
+    <description><![CDATA[willa Jana Matejki, zbiory sztuki, pamiątki po tej postaci<br><br><a href="http://www.muzeum.tarnow.pl/oddzialy.php?id=8" target="_blank">Muzeum Okręgowe w Tarnowie - Muzeum Pamiątek po Janie Matejce</a><br>]]></description>
+    <styleUrl>#style142</styleUrl>
+    <Point>
+      <coordinates>20.464182,49.917740,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba pamięci Żydów – Dąbrowski Dom Kultury w Dąbrowie Tarnowskiej</name>
+    <description><![CDATA[<div dir="ltr">historia społeczności żydowskiej w Dąbrowie Tarnowskiej<br><br><a href="http://www.kurier.zicom.pl/index.php?action=judaica5" target="_blank">Izba pamięci Żydów – Dąbrowski Dom Kultury w Dąbrowie Tarnowskiej</a><br><br></div>]]></description>
+    <styleUrl>#style179</styleUrl>
+    <Point>
+      <coordinates>20.984606,50.174454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Powiśla Dąbrowskiego w Dąbrowie Tarnowskiej - Miejska Biblioteka Publiczna</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Powiśla Dąbrowskiego, zbiory regionalne<br><br><a href="http://www.mbp.dt.pl/muzeum.htm" target="_blank">Muzeum Powiśla Dąbrowskiego w Dąbrowie Tarnowskiej - Miejska Biblioteka Publiczna</a><br><br> <br><br></div>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>20.985926,50.176010,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im. Władysława Orkana w Rabce</name>
+    <description><![CDATA[zbiory regionalne i etnograficzne, historia i kultura Podhala, zabytkowy kościół drewniany<br><br><a href="http://www.muzeum-orkana.pl/" target="_blank"><span style="font-size:12pt;color:black">Muzeum im. Władysława Orkana w Rabce</span></a>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>19.946718,49.611420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Gorczańskie Jana Fudali</name>
+    <description><![CDATA[<div dir="ltr">prywatne zbiory etnograficzne i regionalne, zbiory sztuki ludowej </div>]]></description>
+    <styleUrl>#style204</styleUrl>
+    <Point>
+      <coordinates>19.947996,49.612698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Orderu Uśmiechu w Rabce</name>
+    <description><![CDATA[kolekcja pamiątek związanych z historia Orderu Uśmiechu<br><br><a href="http://www.orderusmiechu.pl/11_MUZEUM/muzeum.html" target="_blank">Muzeum Orderu Uśmiechu w Rabce</a><br>]]></description>
+    <styleUrl>#style203</styleUrl>
+    <Point>
+      <coordinates>19.947309,49.607346,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Podhalańskie PTTK im. Czesława Pajerskiego w Nowym Targu</name>
+    <description><![CDATA[
+
+<p>historia i kultura Podhala, zbiory regionalne i etnograficzne, zabytkowy ratusz miejski<br></p></p><p></p></p>
+
+]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>20.031219,49.482033,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasieka „Pod lasem” w Spytkowicach</name>
+    <description><![CDATA[
+
+<p><a href="http://pasiekapodlasem.com/home.html" target="_blank">zbiory pszczelarskie, kolekcja zabytkowych ulów<br></a></p></p><p><a href="http://pasiekapodlasem.com/home.html" target="_blank">Pasieka „Pod lasem” w Spytkowicach</a></p></p><p></p></p>
+
+]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>19.908686,49.590130,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Muzeum Powstania Chochołowskiego w Chochołowie </name>
+    <description><![CDATA[
+
+<p><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1391,0,1391,muzeum_powstania_chocho%EF%BF%BDow" target="_blank">historia powstania chochołowskiego, zabytkowy dom drewniany<br></a></p></p><p><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1391,0,1391,muzeum_powstania_chocho%EF%BF%BDow" target="_blank">Muzeum Tatrzańskie w Zakopanem - Muzeum Powstania Chochołowskiego w Chochołowie </a></p></p><p></p></p>
+
+]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>19.816267,49.371700,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Dwór w Łopusznej </name>
+    <description><![CDATA[historia kultury dworskiej, historia Podhala, zabytkowy dwór i założenie ogrodowe<br><br><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1391,0,1394,dw%EF%BF%BDr_w_%EF%BF%BDopusznej,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Dwór w Łopusznej </a><br>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>20.128412,49.473591,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dom Pamięci Ks. Prof. Józefa Tischnera w Łopusznej</name>
+    <description><![CDATA[<span>postać księdza Józefa Tischnera, kultura Podhala<br><br><a href="http://www.tischnerowka.pl/strony.php?s=Tischnerowka&amp;PHPSESSID=f453db8c136ade61ac0fe87c35520513" target="_blank">Dom Pamięci Ks. Prof. Józefa Tischnera w Łopusznej</a><br></span>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>20.138025,49.486637,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Zagroda Sołtysów w Jurgowie </name>
+    <description><![CDATA[
+
+<p><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1393,0,1393,zagroda_so%EF%BF%BDtys%EF%BF%BDw_w_jurgowie,ant.html" target="_blank"><br>historia i kultura Spisza, etnografia i kultura ludowa, zabytkowa zagroda<br></a></p></p><p><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1393,0,1393,zagroda_so%EF%BF%BDtys%EF%BF%BDw_w_jurgowie,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Zagroda Sołtysów w Jurgowie </a></p></p><p></p></p>
+
+]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>20.138969,49.339806,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Zagroda Korkoszów w Czarnej Górze </name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Spisza, etnografia i kultura, zabytkowa zagroda<br><br><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1392,0,1392,zagroda_korkosz%EF%BF%BDw_w_czarnej_g%EF%BF%BDrze,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Zagroda Korkoszów w Czarnej Górze </a><br></div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>20.131502,49.379074,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Regionalna „U Gąsienicy” w Murzasichlu</name>
+    <description><![CDATA[
+
+<p><a href="http://www.ugasienicy.pl/" target="_blank">zbiory regionalne, sztuka ludowa, kultura Podtatrza<br></a></p></p><p><a href="http://www.ugasienicy.pl/" target="_blank">Izba Regionalna „U Gąsienicy” w Murzasichlu</a></p></p><p></p></p>
+
+]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>20.041723,49.318409,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Gmach Główny </name>
+    <description><![CDATA[<div dir="ltr">etnografia i kultura Podhala, historia turystyki w Tatrach, Zakopane w kulturze narodowej, zabytkowy budynek muzeum<br><br><a href="http://www.muzeumtatrzanskie.com.pl/" target="_blank">Muzeum Tatrzańskie w Zakopanem - Gmach Główny </a></div>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>19.949841,49.295280,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Galeria Sztuki im. Kulczyckich </name>
+    <description><![CDATA[zbiory sztuki, kolekcja Kulczyckich<br><br><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,0,0,1388,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Galeria Sztuki im. Kulczyckich </a><br>]]></description>
+    <styleUrl>#style152</styleUrl>
+    <Point>
+      <coordinates>19.972544,49.287838,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Muzeum Stylu Zakopiańskiego im. St. Witkiewicza, willa &quot;Koliba&quot;</name>
+    <description><![CDATA[zbiory sztuki, historia stylu zakopiańskiego, postać Stanisława Witkiewicza, zabytkowa willa<br><br><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1388,0,1387,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Muzeum Stylu Zakopiańskiego im. St. Witkiewicza, willa "Koliba"</a><br>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>19.943104,49.294331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Galeria Wł. Hasiora</name>
+    <description><![CDATA[zbiory sztuki, postać Władysława Hasiora<br><br><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,1387,0,1389,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Galeria Wł. Hasiora</a><br>]]></description>
+    <styleUrl>#style196</styleUrl>
+    <Point>
+      <coordinates>19.963617,49.296780,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tatrzańskie w Zakopanem - Muzeum im. K. Makuszyńskiego, willa &quot;Opolanka&quot;</name>
+    <description><![CDATA[postać Kornela Makuszyńskiego, historia literatury w Zakopanem<br><br><a href="http://www.muzeumtatrzanskie.com.pl/?strona,menu,pol,glowna,0,0,1390,ant.html" target="_blank">Muzeum Tatrzańskie w Zakopanem - Muzeum im. K. Makuszyńskiego, willa "Opolanka"</a><br>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>19.957438,49.289192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Przyrodnicze Tatrzańskiego Parku Narodowego</name>
+    <description><![CDATA[zbiory przyrodnicze Tatrzańskiego Parku Narodowego, historia poznania i ochrony Tatr<br><br><a href="http://www.tpn.pl/" target="_blank">Muzeum Przyrodnicze Tatrzańskiego Parku Narodowego</a><br>]]></description>
+    <styleUrl>#style192</styleUrl>
+    <Point>
+      <coordinates>19.972372,49.285625,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ośrodek Kultury Turystyki Górskiej PTTK na Turbaczu </name>
+    <description><![CDATA[historia krajoznawstwa i turystyki w Gorcach<br><br><a href="http://cotg.pttk.pl/oktg.php" target="_blank">Ośrodek Kultury Turystyki Górskiej PTTK na Turbaczu </a><br>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>20.120001,49.543869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ośrodek Kultury Turystyki Górskiej PTTK na Jaworzynie Krynickiej </name>
+    <description><![CDATA[historia krajoznawstwa i turystyki w Beskidzie Sądeckim<br><br><a href="http://cotg.pttk.pl/oktg.php" target="_blank">Ośrodek Kultury Turystyki Górskiej PTTK na Jaworzynie Krynickiej </a><br>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>20.894152,49.421276,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Galeria Dawna Synagoga w Nowym Sączu</name>
+    <description><![CDATA[<div dir="ltr">historia społeczności żydowskiej w Nowym Sączu, zabytkowa synagoga miejska<br><br><a href="http://www.muzeum.sacz.pl/pl/543/0/Galeria_Dawna_Synagoga_w_Nowym_Saczu.html" target="_blank">Muzeum Okręgowe w Nowym Sączu - Galeria Dawna Synagoga w Nowym Sączu</a></div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>20.690248,49.627594,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Galeria Marii Rytter w Nowym Sączu</name>
+    <description><![CDATA[postać Marii Rytter, zbiory sztuki<br><br><a href="http://www.muzeum.sacz.pl/pl/544/0/Galeria_Marii_Ritter_w_Nowym_Saczu.html" target="_blank">Muzeum Okręgowe w Nowym Sączu - Galeria Marii Rytter w Nowym Sączu</a><br>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>20.691826,49.624439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Sądecki Park Etnograficzny</name>
+    <description><![CDATA[skansen budownictwa drewnianego, kultura okolicznych grup etnograficznych<br><br><a href="http://www.muzeum.sacz.pl/pl/548/0/Sadecki_Park_Etnograficzny.html" target="_blank">Muzeum Okręgowe w Nowym Sączu - Sądecki Park Etnograficzny</a><br>]]></description>
+    <styleUrl>#style200</styleUrl>
+    <Point>
+      <coordinates>20.739204,49.620705,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Muzeum Lachów Sądeckich w Podegrodziu </name>
+    <description><![CDATA[kultura i historia okolic Podegrodzia<br><br><a href="http://www.muzeum.sacz.pl/pl/549/0/Muzeum_Lachow_Sadeckich_w_Podegrodziu.html" target="_blank">Muzeum Okręgowe w Nowym Sączu - Muzeum Lachów Sądeckich w Podegrodziu </a><br>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>20.587156,49.577843,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Okręgowe w Nowym Sączu - Muzeum Nikifora w Krynicy - Zdroju</name>
+    <description><![CDATA[postać Nikifora, zbiory sztuki, zabytkowa willa <br><br><a href="http://www.muzeum.sacz.pl/pl/550/0/Muzeum_Nikifora_w_Krynicy-Zdroju.html" target="_blank">Muzeum Okręgowe w Nowym Sączu - Muzeum Nikifora w Krynicy - Zdroju</a><br>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>20.956131,49.418804,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Nowym Wiśniczu</name>
+    <description><![CDATA[historia rodziny Lubomirskich, zabytkowy pałac i forteca<br><br>Przekazany przez Muzeum Okręgowe w Nowym Sączu Gminie Nowy Wiśnicz<br>]]></description>
+    <styleUrl>#style194</styleUrl>
+    <Point>
+      <coordinates>20.468838,49.917381,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum - Zamek Królewski w Niepołomicach</name>
+    <description><![CDATA[historia i kultura Niepołomic, historia zamku królewskiego, zabytkowy zamek i ogrody<br><br><a href="http://www.muzeum.niepolomice.pl/" target="_blank">Muzeum - Zamek Królewski w Niepołomicach</a>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>20.218040,50.033974,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Żup Krakowskich w Wieliczce </name>
+    <description><![CDATA[zabytkowa kopalnia soli, zabytkowy zamek żupny, historia górnictwa soli<br><br><a href="http://www.muzeum.wieliczka.pl/" target="_blank">Muzeum Żup Krakowskich w Wieliczce </a><br>]]></description>
+    <styleUrl>#style169</styleUrl>
+    <Point>
+      <coordinates>20.060080,49.983894,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kopalnia Soli w Wieliczce S.A. </name>
+    <description><![CDATA[zabytkowa kopalnia soli<br><br><a href="http://www.kopalnia-pp.pl/" target="_blank">Kopalnia Soli w Wieliczce S.A. </a><br>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>20.051819,49.985546,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Uzdrowisko Kopalnia Soli w Bochni</name>
+    <description><![CDATA[zabytkowa kopalnia soli, historia bocheńskiego górnictwa soli<br><br><a href="http://www.kopalniasoli.pl/index.php?inc=obiekty&amp;jez=pl&amp;kat=96&amp;pkat=101" target="_blank">Uzdrowisko Kopalnia Soli w Bochni</a><br>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>20.417339,49.969032,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach</name>
+    <description><![CDATA[zbiory sztuki, historia i kultura Gorlic, zabytkowy pałac<br><br><a href="http://www.gorlice.art.pl/index.php" target="_blank">Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach</a><br>]]></description>
+    <styleUrl>#style134</styleUrl>
+    <Point>
+      <coordinates>21.158606,49.658634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach - oddział Kasztel w Szymbarku (w organizacji)</name>
+    <description><![CDATA[zabytkowy kasztel obronny<br><br><a href="http://www.gorlice.art.pl//index.php?option=com_content&amp;task=view&amp;id=89&amp;Itemid=47" target="_blank">Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach - oddział Kasztel w Szymbarku (w organizacji)</a><br>]]></description>
+    <styleUrl>#style143</styleUrl>
+    <Point>
+      <coordinates>21.095638,49.620331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach - odział Skansen Budownictwa Ludowego w Szymbarku</name>
+    <description><![CDATA[skansen budownictwa ludowego, zbiory etnograficzne, historia i kultura Szymbarku<br><br><a href="http://www.gorlice.art.pl//index.php?option=com_content&amp;task=view&amp;id=87&amp;Itemid=45" target="_blank">Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach - odział Skansen Budownictwa Ludowego w Szymbarku</a><br>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>21.097355,49.622108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach - oddział Cerkiew w Bartnem</name>
+    <description><![CDATA[zabytkowa cerkiew drewniana, zbiory sztuki sakralnej<br><br><a href="http://www.gorlice.art.pl//index.php?option=com_content&amp;task=view&amp;id=90&amp;Itemid=48" target="_blank">Muzeum Dwory Karwacjanów i Gładyszów w Gorlicach - oddział Cerkiew w Bartnem</a><br>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>21.329184,49.565361,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Rzemiosła  Łemkowskiego w Bielance</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Łemków, zbiory etnograficzne, zabytki rzemiosła ludowego</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>21.117954,49.592018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Gorlickiego Kopalnictwa Naftowego w Gorlicach (w organizacji)</name>
+    <description><![CDATA[<div dir="ltr">historia kopalnictwa naftowego w Galicji, zabytkowa kopalnia w Gorlicach</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>21.145720,49.657600,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Przemysłu Naftowego i Etnografii w Libuszy </name>
+    <description><![CDATA[<div dir="ltr">historia kopalnictwa naftowego w Galicji, zbiory etnograficzne<br><br><a href="http://www.libuszamuzeum.iap.pl/" target="_blank">Muzeum Przemysłu Naftowego i Etnografii w Libuszy </a></div>]]></description>
+    <styleUrl>#style189</styleUrl>
+    <Point>
+      <coordinates>21.226959,49.693840,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne PTTK im I. Łukasiewicza w Gorlicach </name>
+    <description><![CDATA[historia Operacji Gorlickiej i I wojny światowej, historia kopalnictwa naftowego w rejonie Gorlic, kultura i historia Gorlic<br><br><a href="http://gorlice.pttk.pl/index.php?option=com_content&amp;task=blogcategory&amp;id=20&amp;Itemid=33" target="_blank">Muzeum Regionalne PTTK im I. Łukasiewicza w Gorlicach </a><br>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>21.156815,49.656857,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Historyczno - Etnograficzne w Andrychowie </name>
+    <description><![CDATA[historia i kultura Andrychowa, zbiory etnograficzne, historia ruchu oporu podczas II wojny światowej<br><br><a href="http://www.muzeum.andrychow.pl/muzeum/" target="_blank">Muzeum Historyczno - Etnograficzne w Andrychowie </a><br>]]></description>
+    <styleUrl>#style190</styleUrl>
+    <Point>
+      <coordinates>19.358854,49.840916,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne &quot;Dom Grecki&quot; w Myślenicach </name>
+    <description><![CDATA[historia i kultura Myślenic, zbiory sztuki<br><br><a href="http://www.muzeum.myslenice.edu.pl/" target="_blank">Muzeum Regionalne "Dom Grecki" w Myślenicach </a><br>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>19.936388,49.835739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lipnicka Izba Regionalna w Lipnicy Murowanej</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Lipnicy Murowanej, zbiory regionalne, zabytkowy dom miejski<br></div>]]></description>
+    <styleUrl>#style178</styleUrl>
+    <Point>
+      <coordinates>20.521088,49.856689,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne im. Stróżów Grobu Bożego w Chełmie (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">historia parafii, zbiory sztuki sakralnej, historia Bożogroców<br></div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>20.319729,49.971870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Wiśnickiej w Wiśniczu Nowym</name>
+    <description><![CDATA[<div dir="ltr">kultura i historia Ziemi Wiśnickiej, zbiory regionalne, zbiory sztuki<br><br><a href="http://umwisnicz.home.pl/index.php?option=com_content&amp;task=view&amp;id=1135" target="_blank">Muzeum Ziemi Wiśnickiej </a></div>]]></description>
+    <styleUrl>#style208</styleUrl>
+    <Point>
+      <coordinates>20.461823,49.916386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Biograficzne Stanisława Klimowskiego</name>
+    <description><![CDATA[<div dir="ltr">postać Stanisława Klimowskiego, zbiory sztuki</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>20.463409,49.914951,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Sanktuarium Maryjnego w Okulicach (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">historia sanktuarium, zbiory sztuki</div>]]></description>
+    <styleUrl>#style167</styleUrl>
+    <Point>
+      <coordinates>20.529230,50.060120,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne PTTK im. Władysława Kowalskiego w Dobczycach</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Dobczyc, skansen budownictwa drewnianego, kultura funeralna, zabytkowy zamek dobczyski</div>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>20.085497,49.877186,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Jana Kasprowicza na Harendzie</name>
+    <description><![CDATA[<div dir="ltr">postać Jana Kasprowicza, zabytkowa willa drewniana, literatura pod Tatrami</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>19.981213,49.320423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im R. Kalinowskiego przy Klasztorze Karmelitów Bosych w Czernej</name>
+    <description><![CDATA[<div dir="ltr">kolekcje misyjne, postać Rafała Kalinowskiego, historia i kultura klasztoru, dzieje karmelitów</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>19.613171,50.177670,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Galeria Towarzystwa Miłośników Skomielnej Czarnej i Bogdanówki w Skomielnej Czarnej</name>
+    <description><![CDATA[<div dir="ltr">zbiory regionalne, zbiory sztuki</div>]]></description>
+    <styleUrl>#style138</styleUrl>
+    <Point>
+      <coordinates>19.837168,49.726784,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im. Jana Wnęka w Odporyszowie</name>
+    <description><![CDATA[<div dir="ltr">zbiory regionalne, zabytkowy budynek parafii, postać Jana Wnęka<br><br><a href="http://www.zabno.pl/?strona=00148" target="_blank">Muzeum im. Jana Wnęka w Odporyszowie</a></div>]]></description>
+    <styleUrl>#style151</styleUrl>
+    <Point>
+      <coordinates>20.913710,50.151714,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafilane w Bobowej</name>
+    <description><![CDATA[<div dir="ltr">historia parafii w Bobowej, zbiory sztuki sakralnej<br></div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>20.941614,49.707970,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum w Synagodze w Bobowej</name>
+    <description><![CDATA[<div dir="ltr">zabytkowa synagoga w Bobowej, historia społeczności żydowskiej w Bobowej, zbiory sztuki<br></div>]]></description>
+    <styleUrl>#style173</styleUrl>
+    <Point>
+      <coordinates>20.945477,49.709217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum parafialne im. ks. Jana Piechoty w Iwkowej</name>
+    <description><![CDATA[<div dir="ltr">zbiory regionalne, zbiory sztuki<br></div>]]></description>
+    <styleUrl>#style171</styleUrl>
+    <Point>
+      <coordinates>20.592413,49.815117,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne w Krynicy - Zdroju (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej<br></div>]]></description>
+    <styleUrl>#style199</styleUrl>
+    <Point>
+      <coordinates>20.959833,49.422169,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne Sztuki Ludowej w Paszynie (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[zbiory etnograficzne i kultury ludowej, zbiory sztuki sakralnej<br><br><a href="http://www.muzeum.diecezja.tarnow.pl/paszyn/index.html" target="_blank">Muzeum Parafialne Sztuki Ludowej w Paszynie (oddział Muzeum Diecezjalnego w Tarnowie)</a><br>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>20.779438,49.627613,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne w Rzepienniku Strzyżewskim (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej</div>]]></description>
+    <styleUrl>#style175</styleUrl>
+    <Point>
+      <coordinates>21.035856,49.805809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum klasztorne PP.Klarysek w Starym Sączu (oddział Muzeum Diecezjalnego w Tarnowie - muzeum za klauzurą, czyli raczej archiwum)</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej, postać św. Kingi<br></div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>20.639084,49.562954,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne w Tropiu (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej<br></div>]]></description>
+    <styleUrl>#style186</styleUrl>
+    <Point>
+      <coordinates>20.656700,49.797222,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Parafialne w Złotej (oddział Muzeum Diecezjalnego w Tarnowie)</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej</div>]]></description>
+    <styleUrl>#style155</styleUrl>
+    <Point>
+      <coordinates>20.692406,49.881584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Regionalna &quot;Dom pod Wagą&quot; w Zakliczynie</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Zakliczyna</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>20.811152,49.856220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum im. prof. Antoniego Krajewskiego w Lanckoronie</name>
+    <description><![CDATA[<div dir="ltr">historia i kultura Lanckorony, zbiory etnograficzne, historia konfederacji barskiej<br></div>]]></description>
+    <styleUrl>#style157</styleUrl>
+    <Point>
+      <coordinates>19.715694,49.844791,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum - Dwór I. Paderewskiego w Kąśnej Dolnej</name>
+    <description><![CDATA[zabytkowy dwór, postać Ignacego Paderewskiego, historia muzyki polskiej<br><br><a href="http://www.paderewski.tarnow.pl/muzeum.html" target="_blank">Muzeum - Dwór I. Paderewskiego w Kąśnej Dolnej</a><br>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>20.942774,49.781956,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Przyrodnicze im K. i W. Tomków w Ciężkowicach</name>
+    <description><![CDATA[zbiory przyrodnicze<br><br><a href="http://www.ciezkowice.pl/?strona=00021" target="_blank">Muzeum Przyrodnicze im K. i W. Tomków w Ciężkowicach</a><br>]]></description>
+    <styleUrl>#style184</styleUrl>
+    <Point>
+      <coordinates>20.973759,49.786919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Etnograficzne &quot;Grociarnia&quot; w Jastrzębiej</name>
+    <description><![CDATA[zbiory etnograficzne i regionalne<br><br><a href="http://www.ciezkowice.pl/?strona=00019" target="_blank">Muzeum Etnograficzne "Grociarnia" w Jastrzębiej</a><br>]]></description>
+    <styleUrl>#style172</styleUrl>
+    <Point>
+      <coordinates>20.877285,49.798664,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Regionalna w Wojniczu im J. Królikiewicza</name>
+    <description><![CDATA[zbiory regionalne i etnograficzne<br><br><a href="http://www.wojnicz.pl/?s=124" target="_blank">Izba Regionalna w Wojniczu</a><br>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>20.837631,49.958122,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Misyjne, Sanktuaryjne, Etnograficzne przy Klasztorze Ojców Redemptorystów w Tuchowie</name>
+    <description><![CDATA[<div dir="ltr">kolekcje misyjne, zbiory etnograficzne, historia misji redemptorystów, zabytkowy klasztor w Tuchowie<br></div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>21.055683,49.895630,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Zakładów Azotowych w Tarnowie</name>
+    <description><![CDATA[<div dir="ltr">historia zakładów azotowych, zbiory dokumentów i archiwaliów<br></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>20.913677,50.014771,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Powozownia Stada Ogierów Skarbu Państwa w Klikowej</name>
+    <description><![CDATA[<div dir="ltr">zbiory zabytkowych pojazdów konnych<br></div>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>20.938740,50.044464,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Rodzinna bł. Karoliny Kózkówny w Wale - Rudzie</name>
+    <description><![CDATA[<div dir="ltr">postać i miejsce urodzin bł. Karoliny Kózkówny<br></div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>20.786648,50.118488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Emila Zegadłowicza w Gorzeniu Górnym </name>
+    <description><![CDATA[<span style="font-size:12pt;color:rgb(255, 102, 0)"><span style="background-color:rgb(0, 0, 0)"><span style="color:rgb(0, 0, 0)"><span style="background-color:rgb(255, 255, 255)">postać Emila Zegadłowicza, zbiory sztuki, zabytkowy pałac i ogród</span></span></span><br><br><a href="http://www.muzeumez.silesianet.pl/" target="_blank"><span style="color:rgb(0, 0, 0)">Muzeum Emila Zegadłowicza w Gorzeniu Górnym </span></a><br></span>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>19.503716,49.855568,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Tradycji Wytwórni Silników Wysokoprężnych &quot;Andoria&quot; w Andrychowie </name>
+    <description><![CDATA[<div dir="ltr">historia zakładu, zbiory historycznych produktów<br></div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>19.364691,49.857811,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Beskidzkie Centrum Zabawkarstwa Ludowego w Stryszawie</name>
+    <description><![CDATA[<div dir="ltr">zbiory zabawek ludowych<br></div>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>19.520580,49.713089,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zamek w Czchowie</name>
+    <description><![CDATA[<div dir="ltr">historia strażnicy czchowskiej, zabytkowe ruiny zamku<br></div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>20.676785,49.835934,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Sióstr Benedyktynek w Staniątkach</name>
+    <description><![CDATA[<div dir="ltr">zbiory sztuki sakralnej, historia klasztoru benedyktynek<br></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>20.193913,50.008930,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Galeria Koronki Klockowej w Bobowej</name>
+    <description><![CDATA[zbiory sztuki koronkarskiej, historia koronki klockowej, słynne koronkarki<br><br><a href="http://www.ck.bobowa.pl/koronki/galeria/index.html" target="_blank">Galeria Koronki Klockowej w Bobowej</a><br>]]></description>
+    <styleUrl>#style207</styleUrl>
+    <Point>
+      <coordinates>20.943632,49.708607,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne PTTK &quot;Państwa Muszyńskiego&quot; w Muszynie</name>
+    <description><![CDATA[historia i kultura Muszyny, historia klucza muszyńskiego, zabytkowy budynek miejski <br><br><a href="http://www.muszyna.pl/?id=8619&amp;location=f&amp;msg=1" target="_blank">Muzeum Regionalne PTTK "Państwa Muszyńskiego" w Muszynie</a><br>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>20.892134,49.353813,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Regionalne w Piwnicznej Zdroju</name>
+    <description><![CDATA[<div dir="ltr">zbiory etnograficzne i regionalne<br></div>]]></description>
+    <styleUrl>#style193</styleUrl>
+    <Point>
+      <coordinates>20.714808,49.440784,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Miejskie Suchej Beskidzkiej </name>
+    <description><![CDATA[historia i kultura Suchej, zabytkowy pałac Komorowskich<br><br><a href="http://www.muzeum.sucha-beskidzka.pl" target="_blank">Muzeum Miejskie Suchej Beskidzkiej </a><br>]]></description>
+    <styleUrl>#style176</styleUrl>
+    <Point>
+      <coordinates>19.601971,49.746170,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Witraży (sytuacja niewyjaśniona)</name>
+    <description><![CDATA[<div dir="ltr">dawna pracownia witraży &quot;Żeleński&quot; </div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>19.925508,50.059196,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Regionalna w Łazanach (w przygotowaniu)</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>20.154238,49.947643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Ziemi Krzeszowickiej</name>
+    <description><![CDATA[<div dir="ltr">dzieje miasta i okolic, historia uzdrowiska, znane postaci Wadowic</div>]]></description>
+    <styleUrl>#style139</styleUrl>
+    <Point>
+      <coordinates>19.636108,50.135406,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Muzealna w Imbramowicach (&quot;Biały Domek&quot;)</name>
+    <description><![CDATA[<div dir="ltr">zbiory regionalne, pamiątki po powstaniu styczniowym</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>19.868731,50.303951,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Osada Czorsztyn</name>
+    <description><![CDATA[<div dir="ltr">skansen budownictwa, muzeum etnograficzne, zabytkowe wille z Czorsztyna<br><br><a href="http://www.osada.czorsztyn.pl/historia.html" target="_blank">Osada Czorsztyn</a></div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>20.294151,49.441135,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skansen Budownictwa Drewnianego na Woli Justowskiej</name>
+    <description><![CDATA[skansen, zabytki budownictwa drewnianego<div><br>&nbsp;</div><div>(Muzeum w stanie organizacji od 100 lat)</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>19.862089,50.063839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum PRL - Oddział Muzeum Historii Polski w Warszawie</name>
+    <description><![CDATA[historia Polski 1944-1989, dawne Kino "Światowid"<div><br>Muzeum w organizacji</div><div>&nbsp;</div><div><a href="http://www.muzprl.pl/" target="_blank">Muzeum PRL</a></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>20.041122,50.070286,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Izba Pamięci Światowego Związku Żołnierzy Armii Krajowej</name>
+    <description><![CDATA[<div dir="ltr">Oddział Muzeum Okręgowego w Tarnowie</div><div dir="ltr"><br>&nbsp;</div><div dir="ltr">archiwalia zabytki związane z II wojna światową i historią ruchu oporu </div>]]></description>
+    <styleUrl>#style148</styleUrl>
+    <Point>
+      <coordinates>20.975786,50.011292,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Opactwa w Tyńcu</name>
+    <description><![CDATA[<a href="http://www.tyniec.benedyktyni.pl/pl/aktualnosci-benedyktyni-tyniec/muzeum-opactwa.html" target="_blank">Muzeum Opactwa w Tyńcu</a><br><br>historia opactwa, księgozbiór, obiekty liturgiczne<br>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>19.801708,50.018673,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Sztuki Współczesnej w Krakowie</name>
+    <description><![CDATA[w organizacji<br>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>19.961451,50.047424,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Rodu Estreicherów, Strat Kultury i Rewindykacji.</name>
+    <description><![CDATA[<div dir="ltr">Historia Rodu Estreicherów, zabytkowa willa drewniana, zbiory sztuki ludowej<br><br>Opiekun: Towarzystwo Przyjaciół Sztuk Pięknych</div>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>19.859055,50.068020,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kopiec Kościuszki</name>
+    <description><![CDATA[<div dir="ltr">postać Kościuszki, historia kopca<br><br>Opiekun: <a href="http://www.tmhzk.krakow.pl/index.php?inf=dane/komitety__kkk.php&amp;sub=8" target="_blank">Komitet Kopca Kościuszki</a><br></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>19.893408,50.054970,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Fonografii</name>
+    <description><![CDATA[<span style="color:rgb(51, 51, 51);line-height:19px;background-color:rgb(255, 255, 255)">W siedmiu salach podzielonych na poszczególne okresy historii prezentowanych jest ok 150 eksponatów fonograficznych, wiek niektórych sięga nawet 130 lat.</span>]]></description>
+    <styleUrl>#style145</styleUrl>
+    <Point>
+      <coordinates>20.217815,50.035400,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zagroda Maziarska w Łosiu - oddział Muzeum Dwory Gładyszów i Karwacjanów</name>
+    <description><![CDATA[<font face="arial" size="2"><a href="http://www.gorlice.art.pl/oddzialy-muzeum/zagroda-maziarska-w-losiu-filia-cerkiew-w-bartnem.html" target="_blank">Zagroda Maziarska w Łosiu - oddział Muzeum Dwory Gładyszów i Karwacjanów</a></font><div><br>&nbsp;</div><div><span style="font-family:Arial, sans-serif;font-size:12px">Ekspozycja stała poświęcona jest historii wsi Łosie oraz historii maziarstwa – łemkowskiego ludowego przemysłu destylacji ropy naftowej i handlu jej produktami.</span></div>]]></description>
+    <styleUrl>#style202</styleUrl>
+    <Point>
+      <coordinates>21.091003,49.571320,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Tadeusza Kantora Cricoteka</name>
+    <description><![CDATA[<div dir="ltr">Muzeum w budowie</div><div dir="ltr"><a href="http://cricotekawbudowie.pl/pl" target="_blank">http://cricotekawbudowie.pl/pl</a>
+</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>19.951353,50.046806,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centrum Dokumentacji Pontyfikatu Jana Pawła II &quot;Nie lękajcie się&quot;</name>
+    <description><![CDATA[<div style="font-family:arial;font-size:10pt">W budowie</div><div style="font-family:arial;font-size:10pt"><br>&nbsp;</div><font face="arial" size="2">W ramach centrum powstanie również&nbsp;<a href="http://www.janpawel2.pl/budowa-centrum" target="_blank">muzeum</a> poświęcone Karolowi Wojtyle.</font>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>19.936453,50.013847,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Miasteczko Galicyjskie (oddział Muzeum Okręgowego w Nowym Sączu)</name>
+    <description><![CDATA[<a href="http://www.muzeum.sacz.pl/51,Miasteczko_Galicyjskie.htm" target="_blank">Strona muzeum</a>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>20.738947,49.621319,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prywatne Muzeum Polsko-Amerykańskie Hells Angel</name>
+    <description><![CDATA[<span style="color:rgb(51, 51, 51);font-family:Arial, Helvetica, sans-serif;font-size:12px;background-color:rgb(255, 255, 255)">ekspozycja poświęcona amerykańskiemu bombowcowi B-24 Liberator o nazwie "Hell´s Angel" i jego jedenastoosobowej załodze, która została zestrzelona po bombardowaniu zakładów chemicznych w Oświęcimiu 13 września 1944 roku oraz&nbsp;</span>
+<span style="color:rgb(51, 51, 51);font-family:Arial, Helvetica, sans-serif;font-size:12px;background-color:rgb(255, 255, 255)">szereg pamiątek, rzeczy osobistych, dokumentów po najlepszych polskich lotnikach pochodzących z okolic Wadowic</span>]]></description>
+    <styleUrl>#style149</styleUrl>
+    <Point>
+      <coordinates>19.518372,49.875416,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muzeum Diecezjalne w Gorlicach</name>
+    <description><![CDATA[<div dir="ltr">Konserwacja oraz  udostępnianie publiczności cennych zabytków kultury cerkiewnej i narodowej poprzez ekspozycje stałe i okolicznościowe</div><div><br>&nbsp;</div><a href="http://www.okp-elpis.pl/museum,162,0,Informacje.html" target="_blank">
+
+Strona Muzeum </a>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>21.150484,49.648125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

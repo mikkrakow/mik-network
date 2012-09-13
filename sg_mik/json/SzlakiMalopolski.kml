@@ -1,0 +1,3065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Szlaki Małopolski</name>
+  <description><![CDATA[Na mapie zaznaczono miejscowości, przez które przebiegają szlaki turystyki kulturowej opisane na www.szlakimalopolski.mik.krakow.pl. 
+
+Trasy te podzielone są na następujące kategorie:
+
+- szlaki kulturowe (obejmujące swoim zasięgiem więcej niż jedną miejscowość), 
+
+- turystyczne trasy miejskie (wyznaczone na terenie jednej miejscowości),
+
+- cykl „Ruszaj w Małopolskę!” (szlaki i trasy zweryfikowane przez e-wolontariuszy),
+
+- SpacerowM!K (trasy opracowane przez zespół MIK)
+
+- Gry M!K (gry terenowe opracowane przez zespół MIK)]]></description>
+  <Style id="style176">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style184">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style148">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style171">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style188">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style153">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style138">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style165">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style139">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style189">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style182">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style183">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style156">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style177">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style187">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style154">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style166">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style152">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style136">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style179">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style174">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style147">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style158">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style161">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style191">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style185">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style134">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style169">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style175">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style180">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style159">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style146">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style162">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style141">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style163">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style167">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style157">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style155">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style149">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style160">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style181">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style190">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style168">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style178">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style140">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style143">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style170">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style135">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style145">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style186">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style150">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style172">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style164">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style151">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style173">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Alwernia</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a>]]></description>
+    <styleUrl>#style176</styleUrl>
+    <Point>
+      <coordinates>19.542103,50.061024,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Banica</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank">Małopolska Wieś Pachnąca Ziołami</a></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" style="font-family:arial" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a>
+</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>21.047058,49.464779,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barcice Dolne</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>20.651894,49.527214,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bartne</name>
+    <description><![CDATA[<font color="#00cccc" face="trebuchet ms"><b>Szlaki kulturowe</b></font><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a>
+</div>]]></description>
+    <styleUrl>#style184</styleUrl>
+    <Point>
+      <coordinates>21.324463,49.566643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Berest</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a>&nbsp;<font face="&#39;trebuchet ms&#39;"><br></font><div><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Krynicki Szlak Cerkwi Łemkowskich</font></a></div></div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>20.970926,49.503586,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biały Dunajec</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a><br>]]></description>
+    <styleUrl>#style148</styleUrl>
+    <Point>
+      <coordinates>20.009537,49.373989,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biecz</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/19/szlak-mlodopolska-malopolska/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Młodopolska Małopolska</a><br><span style="font-weight:bold;font-family:trebuchet ms;color:rgb(0, 204, 204)">Ruszaj w Małopolskę!</span><font size="2"><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/08/30/ruszaj-w-malopolske-szlak-sw-jadwigi-krolowej-w-bieczu/" style="color:rgb(51, 51, 255)" target="_blank"><span style="font-family:trebuchet ms">Szlak św. Jadwigi królowej w Bieczu</span></a></font><br><span style="font-weight:bold;font-family:trebuchet ms;color:rgb(0, 204, 204)"><br></span>]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>21.250219,49.730637,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bielanka</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Karpacko-Galicyjski Szlak Naftowy</font></a></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>21.115551,49.590794,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Binarowa</name>
+    <description><![CDATA[<font face="trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255)" target="_blank">Małopolska Trasa UNESCO</a><br></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a></div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>21.227646,49.754654,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Binczarowa</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlak kulturowy</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>20.943375,49.562744,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Blizne</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Małopolska Trasa UNESCO</a>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>21.971283,49.756870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bobowa</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" style="font-family:trebuchet ms;color:rgb(51, 51, 255)" target="_blank">Śladami Żydów Małopolskich</a>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>20.944233,49.708275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bochnia</name>
+    <description><![CDATA[<p></p><p><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></p>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/22/solny-szlak/" target="_blank"><font face="trebuchet ms">Solny
+szlak</font></a>
+
+<p><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/09/via-regia-w-malopolsce/" target="_blank"><font face="trebuchet ms">Via
+Regia</font></a></p>
+
+<p><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" target="_blank"><font face="trebuchet ms">Śladami
+Żydów Małopolskich</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/19/oficjalna-prezentacja-szlaku-malopolska-droga-sw-jakuba/" target="_blank"><font face="trebuchet ms">Droga
+św. Jakuba w Małopolsce</font></a></p>
+
+<p><b><font color="#00cccc" face="trebuchet ms">Turystyczne trasy miejskie</font></b></p>
+
+<p><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/04/20/szlak-nacl-w-bochni/" target="_blank"><font face="trebuchet ms">Szlak
+NaCl</font></a></p>
+
+<p><b><font color="#00cccc" face="trebuchet ms">Ruszaj w Małopolskę!</font></b></p>
+
+<p><font face="trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/05/10/ruszaj-w-malopolske-spacer-zydowska-trasa-pamieci-w-bochni-2/" target="_blank"></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/05/10/ruszaj-w-malopolske-spacer-zydowska-trasa-pamieci-w-bochni-2/" target="_blank">Żydowska
+Trasa Pamięci</a></font></p>
+
+<p><b><font color="#00cccc" face="trebuchet ms">SpacerowM!K</font></b></p>
+
+<p><font face="trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/26/szlakiem-nacl-%E2%80%93-trasa-spacerowa-po-bochni/" target="_blank"></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/26/szlakiem-nacl-%E2%80%93-trasa-spacerowa-po-bochni/" target="_blank">Szlak
+NaCl</a></font></p>
+
+<p><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/12/szlakiem-patronow-gornikow-w-bochni/" target="_blank"><font face="trebuchet ms">Szlakiem
+patronów górników</font></a></p>
+
+<p><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/08/02/spacerowmk-skarby-bochenskiej-architektury-%E2%80%93-trasa-spacerowa-po-bochni/" target="_blank"><font face="trebuchet ms">Skarby
+bocheńskiej architektury</font></a></p>
+
+<p><b><font color="#00cccc" face="trebuchet ms">Gry M!K</font></b></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-miejsca-cykl-gier-terenowych/" target="_blank"><font face="trebuchet ms">Średniowieczne
+miejsca – cykl gier terenowych</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-profesje-cykl-gier-terenowych/" target="_blank"><font face="trebuchet ms">Średniowieczne
+profesje – cykl gier terenowych</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/pierscien-sw-kingi-2007-cykl-gier-terenowych/" target="_blank"><font face="trebuchet ms">Pierścień
+św. Kingi 2007– cykl gier terenowych</font></a></p><p style="font-family:arial"></p>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>20.431137,49.968449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bodaki</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlak kulturowy</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style171</styleUrl>
+    <Point>
+      <coordinates>21.290474,49.590015,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bogoniowice</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style188</styleUrl>
+    <Point>
+      <coordinates>20.958481,49.800186,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brzesko</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/19/oficjalna-prezentacja-szlaku-malopolska-droga-sw-jakuba/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Droga św. Jakuba w Małopolsce</font></a></div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>20.607090,49.964252,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bukowina Tatrzańska</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style153</styleUrl>
+    <Point>
+      <coordinates>20.106010,49.341763,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bydlin</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>19.648275,50.381161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chełm</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Bożogrobców</a><br>]]></description>
+    <styleUrl>#style138</styleUrl>
+    <Point>
+      <coordinates>20.318527,49.972424,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chochołów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>19.818048,49.368683,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chodów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><div><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Bożogrobców</a></div>]]></description>
+    <styleUrl>#style165</styleUrl>
+    <Point>
+      <coordinates>19.970827,50.384716,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chorągwica</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>]]></description>
+    <styleUrl>#style139</styleUrl>
+    <Point>
+      <coordinates>20.087128,49.959171,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chyszówki</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style189</styleUrl>
+    <Point>
+      <coordinates>20.268745,49.676960,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ciche</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a><span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"><br></span></span></span>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>19.852982,49.380585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cieszyn</name>
+    <description><![CDATA[<strong><font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a title="Edit “Szlak Tradycyjnego Rzemiosła Śląska Cieszyńskiego (woj. śląskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1659&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/01/11/szlak-tradycyjnego-rzemiosla-slaska-cieszynskiego/" style="color:rgb(51, 51, 255)" target="_blank"><span style="font-weight:normal">Szlak Tradycyjnego Rzemiosła Śląska Cieszyńskiego (woj. śląskie)</span></a></font></strong>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>18.638649,49.751217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Czarna Góra</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Cysterski</font></a></div><div><font face="&#39;trebuchet ms&#39;" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank">Południowo-zachodni Szlak Cysterski</a></font></div><div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div></div>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>20.129871,49.378014,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Czarny Potok</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style182</styleUrl>
+    <Point>
+      <coordinates>20.951614,49.397236,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Czchów</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><font color="#3333ff" face="&#39;trebuchet ms&#39;"><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank">Małopolska Romańska</a></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/08/31/na-sliwkowym-szlaku/" target="_blank">Na Śliwkowym Szlaku (woj. małopolskie)</a>
+</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>20.679016,49.838425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Czorsztyn</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style183</styleUrl>
+    <Point>
+      <coordinates>20.328312,49.435871,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Czyrna</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>21.022682,49.479725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dąbrowa Tarnowska</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Śladami Żydów Małopolskich</font></a></div>]]></description>
+    <styleUrl>#style156</styleUrl>
+    <Point>
+      <coordinates>20.984917,50.176018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dębno</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">SpacerowM!K</span><br><font color="#3366ff"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/05/24/szlakiem-przodkow-%E2%80%93-trasa-spacerowa-po-debnie/" target="_blank">Szlakiem przodków</a><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/07/19/szlakiem-debinskiej-architektury-%E2%80%93-trasa-spacerowa-po-debnie/" target="_blank"><span>Szlakiem dębińskiej architektury</span></a></font><br><font color="#3366ff"><a href="http://szlakimalopolski.mik.krakow.pl/2011/08/18/spacerowmk-sladami-swietych-trasa-spacerowa-po-debnie/" target="_blank">Śladami świętych</a></font><br></font><div><p><font face="&#39;trebuchet ms&#39;" size="2"><b><font color="#00cccc">Gry M!K</font></b></font></p><p><span style="color:blue"><font face="&#39;trebuchet ms&#39;" size="2"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-miejsca-cykl-gier-terenowych/" target="_blank">Średniowieczne miejsca – cykl gier terenowych</a></font></span></p><p><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-profesje-cykl-gier-terenowych/" target="_blank">Średniowieczne profesje – cykl gier terenowych</a></font></p><p><font face="&#39;trebuchet ms&#39;" size="2"><a href="http://szlakimalopolski.mik.krakow.pl/pierscien-sw-kingi-2007-cykl-gier-terenowych/" target="_blank"><font color="#3333ff">Pierścień św. Kingi 2007– cykl gier terenowych</font></a><br><font color="#0000ff">&nbsp;&nbsp;</font></font></p></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>20.717983,49.964584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dębno Podhalańskie</name>
+    <description><![CDATA[<font face="trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255)" target="_blank">Małopolska Trasa UNESCO</a><br></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>20.201454,49.465336,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dominikowice</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Karpacko-Galicyjski Szlak Naftowy</font></a></div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>21.218719,49.641846,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Drwinia</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style177</styleUrl>
+    <Point>
+      <coordinates>20.435257,50.098122,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dubie</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Ruszaj w Małopolskę!</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/29/ruszaj-w-malopolske-spacer-dolina-raclawki-trasa-z-dubia-do-paczoltowic-2/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Spacer Doliną Racławki</a><br>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>19.694538,50.156116,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dubne</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style187</styleUrl>
+    <Point>
+      <coordinates>20.973930,49.317177,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dwory</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;" size="2"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="background-color:rgb(255, 255, 255)" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;" size="2">Kraków-Morawy-Wiedeń Greenways</font></a></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>19.333878,50.046997,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dzianisz</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>19.855385,49.334072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dziekanowice</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div>]]></description>
+    <styleUrl>#style154</styleUrl>
+    <Point>
+      <coordinates>20.098114,49.903038,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gdańsk</name>
+    <description><![CDATA[<strong></strong><strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/14/europejski-szlak-gotyku-ceglanego/" target="_blank"><span style="font-weight:normal;color:rgb(51, 51, 255)">Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)</span></a></strong>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>18.632812,54.348553,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gnojnik</name>
+    <description><![CDATA[<div><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2010/08/31/na-sliwkowym-szlaku/" target="_blank">Na Śliwkowym Szlaku (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>20.608034,49.893806,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gołkowice</name>
+    <description><![CDATA[<span style="font-family:arial;font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-family:arial;font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>20.585632,49.480618,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gorlice</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak naftowy</a><br style="color:rgb(51, 51, 255);font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/04/13/szlak-cmentarzy-wojennych-i-wojny-swiatowej/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak cmentarzy I wojny światowej</a><br><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>
+</div>]]></description>
+    <styleUrl>#style166</styleUrl>
+    <Point>
+      <coordinates>21.156794,49.657459,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gródek nad Dunajcem</name>
+    <description><![CDATA[<div><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2010/08/31/na-sliwkowym-szlaku/" target="_blank">Na Śliwkowym Szlaku (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>20.732918,49.748665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Haczów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span>Szlaki kulturowe</span></span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255)" target="_blank">Małopolska Trasa UNESCO</a>
+]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>21.897640,49.661407,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hańczowa</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlak kulturowy</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>21.162071,49.474594,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harklowa</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank">Małopolska Wieś Pachnąca Ziołami</a></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś dla Dzieci</font></a>
+</div>]]></description>
+    <styleUrl>#style152</styleUrl>
+    <Point>
+      <coordinates>20.170555,49.472141,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harmęże</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a>]]></description>
+    <styleUrl>#style136</styleUrl>
+    <Point>
+      <coordinates>19.160843,50.021637,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Iwanowice</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlak kulturowy</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>19.954948,50.226784,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Iwkowa</name>
+    <description><![CDATA[<div style="font-family:arial"><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font><div style="font-family:arial"><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>
+</div><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/08/31/na-sliwkowym-szlaku/" target="_blank"><font face="trebuchet ms" color="#3333ff">Na Śliwkowym Szlaku (woj. małopolskie)</font></a></div>]]></description>
+    <styleUrl>#style179</styleUrl>
+    <Point>
+      <coordinates>20.591469,49.817165,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jakubowice</name>
+    <description><![CDATA[<span style="color:rgb(0, 204, 204);font-weight:bold;font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/08/szlak-dworow-malopolskich/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Dworów Małopolskich</a>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>20.321617,50.188660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jasło</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak naftowy</a>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>21.474838,49.744450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jastrzębia</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style174</styleUrl>
+    <Point>
+      <coordinates>20.881233,49.794785,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jędrzejów</name>
+    <description><![CDATA[<strong></strong><strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a title="Edit “Szlak Cysterski”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1495&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><span style="color:rgb(51, 51, 255);font-weight:normal">Szlak Cysterski</span></a></strong>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>20.305309,50.639881,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jodłownik</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Cysterski</font></a></div><div><font face="&#39;trebuchet ms&#39;" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank">Południowo-zachodni Szlak Cysterski</a></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a>
+</div>]]></description>
+    <styleUrl>#style147</styleUrl>
+    <Point>
+      <coordinates>20.239563,49.776165,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jurczyce</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>19.779854,49.938515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jurgów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>20.140686,49.341232,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Just</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>20.639877,49.714104,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalwaria Zebrzydowska</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255)" target="_blank">Małopolska Trasa UNESCO</a><br><span style="color:rgb(0, 204, 204);font-weight:bold">Turystyczne trasy miejskie</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/03/09/kalwaryjski-szlak-wojciecha-weissa/" style="color:rgb(51, 51, 255)" target="_blank">Kalwaryjski szlak Wojciecha Weissa</a></font>
+]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>19.676170,49.866802,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kamionka Mała</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style158</styleUrl>
+    <Point>
+      <coordinates>20.489159,49.790794,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kamionka Wielka</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style161</styleUrl>
+    <Point>
+      <coordinates>20.784416,49.575546,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Karpacz</name>
+    <description><![CDATA[<span style="color:rgb(0, 204, 204);font-weight:bold;font-family:trebuchet ms">Turystyczne trasy miejskie</span><br style="font-family:trebuchet ms"><font color="#3333ff"><strong style="font-weight:normal;font-family:trebuchet ms"></strong></font><strong style="font-weight:normal;font-family:trebuchet ms"><a href="http://szlakimalopolski.mik.krakow.pl/2010/07/15/szlak-gorniczy-w-karpaczu/" target="_blank"><font color="#3333ff">Szlak Górniczy w Karpaczu</font></a></strong>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>15.755939,50.775440,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Katowice</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Turystyczne trasy miejskie</b></font><div><font face="&#39;trebuchet ms&#39;"><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/27/modernizm-na-szlaku-gdynia-tychy-katowice/" target="_blank"><font color="#3366ff">Szlak moderny w Katowicach</font></a><br></font><div><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font></div></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/31/opowiesci-nieobecnych-sluchajac-o-dziedzictwie-zydowskim-na-slasku/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Opowieści Nieobecnych</font></a></div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>19.029179,50.264217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kluszkowce</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font>]]></description>
+    <styleUrl>#style142</styleUrl>
+    <Point>
+      <coordinates>20.302219,49.450161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kobylanka</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Karpacko-Galicyjski Szlak Naftowy</font></a></div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>21.222410,49.668682,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kolbuszowa</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>21.775932,50.245777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kościelec Proszowicki</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>20.388393,50.200089,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kościelisko</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>19.887314,49.291321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kraków</name>
+    <description><![CDATA[<p><font size="2" face="&#39;trebuchet ms&#39;"><b><span style="color:rgb(0, 204, 204)">Szlaki kulturowe</span></b><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/19/szlak-mlodopolska-malopolska/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Młodopolska Małopolska</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" target="_blank"><span style="color:rgb(51, 51, 255)">Śladami Żydów Małopolskich</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" target="_blank"><span style="color:rgb(51, 51, 255)">Kraków - Morawy - Wiedeń Greenways</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Bożogrobców</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Cysterski</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/23/szlak-renesansu-2010/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Renesansu</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/10/05/malopolska-trasa-unesco/" target="_blank"><span style="color:rgb(51, 51, 255)">Małopolska Trasa UNESCO</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/08/szlak-dworow-malopolskich/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Dworów Małopolskich</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/09/via-regia-w-malopolsce/" target="_blank"><span style="color:rgb(51, 51, 255)">Via Regia</span></a></font></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/03/08/szlak-dworow-malopolskich/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Szlak
+Dworów Małopolskich</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Szlak
+Frontu Wschodniego I Wojny Światowej</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Małopolska
+Romańska</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/19/oficjalna-prezentacja-szlaku-malopolska-droga-sw-jakuba/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Droga
+św. Jakuba w Małopolsce</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/23/szlak-renesansu-2010/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Szlak
+Renesansu 2010</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/07/15/szlak-renesansu-2011-w-willi-decjusza/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Szlak
+Renesansu 2011</font></a></p>
+
+<p><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/06/malopolska-trasa-smakoszy/" target="_blank"><font size="2" face="&#39;trebuchet ms&#39;">Małopolska
+Trasa Smakoszy</font></a></p>
+
+<p><font size="2" face="&#39;trebuchet ms&#39;"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank">Południowo-zachodni
+Szlak Cysterski</a><br>
+<b><span style="color:rgb(0, 204, 204)">Spacery po Krakowie</span></b><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2010/02/16/spacery-po-krakowie-cz-1/" target="_blank"><span style="color:#3333FF">Krakowski Szlak Techniki</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/07/23/spacery-po-krakowie-cz-3-2/" target="_blank"><span style="color:#3333FF">Szlak Twierdzy Kraków</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/09/28/spacery-po-krakowie-cz-4/" target="_blank"><span style="color:#3333FF">Trasa św. Stanisława</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/10/12/spacery-po-krakowie-cz-5/" target="_blank"><span style="color:rgb(51, 51, 255)">Droga Królewska</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/16/spacery-po-krakowie-cz-6/" target="_blank"><span style="color:rgb(51, 51, 255)">Trasa Uniwersytecka</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/21/spacery-po-krakowie-cz-7/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak historii Podgórza</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/01/spacery-po-krakowie-cz-8/" target="_blank"><span style="color:rgb(51, 51, 255)">Trasa nowohucka</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/01/spacery-po-krakowie-cz-9/" target="_blank"><span style="color:rgb(51, 51, 255)">Trasy dziedzictwa żydowskiego</span></a><br>
+<b><span style="color:rgb(0, 204, 204)">SpacerowM!K</span></b><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2010/03/30/spacery-po-krakowie-cz-3/" target="_blank"><span style="color:#3333FF">Węgierskie ślady w Krakowie</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/06/27/spacery-po-krakowie-cz-10-spacerowmk-nowoczesny-krakow-sprzed-pol-wieku/" target="_blank"><span style="color:rgb(51, 51, 255)">Nowoczesny Kraków sprzed pół wieku</span></a></font></p>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>19.932117,50.061878,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Krościenko nad Dunajcem</name>
+    <description><![CDATA[<font size="2" face="&#39;trebuchet ms&#39;"><b><span style="color:rgb(0, 204, 204)">Szlaki kulturowe<br>
+</span></b><span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak dziedzictwa kulturowego
+Podtatrza</span></a><b><span style="color:rgb(0, 204, 204)"><br>
+SpacerowM!K</span></b><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/05/17/szlakiem-kroscienskiego-zdrojowiska-%E2%80%93-trasa-spacerowa-po-kroscienku-nad-dunajcem/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlakiem krościeńskiego zdrojowiska</span></a><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/06/14/szlakiem-gorskim-%E2%80%93-trasa-spacerowa-po-kroscienku-nad-dunajcem/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlakiem górskim</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/07/28/szlakiem-kroscienskich-kapliczek-wotywnych-%E2%80%93-trasa-spacerowa-po-kroscienku-nad-dunajcem/" target="_blank">Szlakiem krościeńskich
+kapliczek wotywnych</a></font><div><p><font face="&#39;trebuchet ms&#39;" size="2"><b><font color="#00cccc">Gry M!K</font></b></font></p><p><span style="color:blue"><font face="&#39;trebuchet ms&#39;" size="2"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-miejsca-cykl-gier-terenowych/" target="_blank">Średniowieczne miejsca – cykl gier terenowych</a></font></span></p><p><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-profesje-cykl-gier-terenowych/" target="_blank">Średniowieczne profesje – cykl gier terenowych</a></font></p><p><font face="&#39;trebuchet ms&#39;" size="2"><a href="http://szlakimalopolski.mik.krakow.pl/pierscien-sw-kingi-2007-cykl-gier-terenowych/" target="_blank"><font color="#3333ff">Pierścień św. Kingi 2007– cykl gier terenowych</font></a><br><font color="#0000ff">&nbsp;&nbsp;</font></font></p></div>]]></description>
+    <styleUrl>#style191</styleUrl>
+    <Point>
+      <coordinates>20.428604,49.441135,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Krośnica</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>20.339470,49.447037,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Krynica</name>
+    <description><![CDATA[<span style="font-size:10pt;font-family:arial;color:rgb(0, 204, 204);font-weight:bold"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><div style="font-size:10pt;font-family:arial"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></div><div style="font-size:10pt;font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div><div><span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold">SpacerowM!K</span><br style="font-family:trebuchet ms"><span style="font-size:10pt"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/08/09/spacerowmk-architektura-u-wod-krynica-w-latach-30-xx-w/" style="font-family:arial" target="_blank">Architektura u wód. Krynica w latach 30. XX w.</a></span><div style="font-size:10pt;font-family:arial"><b style="color:rgb(0, 204, 204);font-size:10pt">Ruszaj w Małopolskę!</b><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Krynicki Szlak Cerkwi Łemkowskich</font></a></div></div></div>]]></description>
+    <styleUrl>#style185</styleUrl>
+    <Point>
+      <coordinates>20.957794,49.422142,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kryspinów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>19.796333,50.042370,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Książ Wielki</name>
+    <description><![CDATA[<b><font color="#00cccc" face="&#39;trebuchet ms&#39;">Szlaki kulturowe</font></b><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/07/06/szlak-renesansu-2011/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Renesansu 2011</font></a></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>20.137253,50.443295,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kwiatoń</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>21.177177,49.500687,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Laskowa</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank">Małopolska Wieś Pachnąca Ziołami</a></font></div><div><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/08/szlak-dworow-malopolskich/" style="color:rgb(51, 51, 255)" target="_blank">Szlak Dworów Małopolskich</a><br style="color:rgb(51, 51, 255)"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255)" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>
+</div><div><font face="trebuchet ms" color="#3333ff" style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" style="font-family:arial" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>
+</div><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/08/31/na-sliwkowym-szlaku/" target="_blank"><font face="trebuchet ms" color="#3333ff">Na Śliwkowym Szlaku (woj. małopolskie)</font></a>
+</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>20.452423,49.761086,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Leluchów</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlak kulturowy</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>20.934620,49.298374,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lesko</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak naftowy</a><br><br>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>22.330076,49.469395,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Leszczyna</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>20.405432,49.858074,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Limanowa</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style144</styleUrl>
+    <Point>
+      <coordinates>20.401611,49.718266,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lipnica Murowana</name>
+    <description><![CDATA[<span style="color:rgb(0, 204, 204);font-weight:bold;font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/10/05/malopolska-trasa-unesco/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Małopolska Trasa UNESCO</a><br style="color:rgb(51, 51, 255);font-family:trebuchet ms"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Architektury Drewnianej (woj. małopolskie)</font></a>
+]]></description>
+    <styleUrl>#style134</styleUrl>
+    <Point>
+      <coordinates>20.526152,49.858791,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lubinka</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>20.903721,49.909119,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Luborzyca</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div>]]></description>
+    <styleUrl>#style169</styleUrl>
+    <Point>
+      <coordinates>20.113049,50.135380,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ludźmierz</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Cysterski</font></a></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Południowo-zachodni Szlak Cysterski</font></a></div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>19.990997,49.465221,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Łopuszna</name>
+    <description><![CDATA[<span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/08/szlak-dworow-malopolskich/" style="color:rgb(51, 51, 255)" target="_blank">Szlak Dworów Małopolskich</a>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>20.130730,49.472363,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Łosie</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>21.080704,49.573769,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Łososina Dolna</name>
+    <description><![CDATA[<div><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2010/08/31/na-sliwkowym-szlaku/" target="_blank">Na Śliwkowym Szlaku (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style175</styleUrl>
+    <Point>
+      <coordinates>20.632668,49.747112,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Łowczówek</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;" style="font-family:arial"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>20.966377,49.928242,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Łużna</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><font color="#3333ff" face="&#39;trebuchet ms&#39;" style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank">Szlak Frontu Wschodniego I Wojny Światowej</a></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś dla Dzieci</font></a>
+</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>21.050491,49.713825,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Małastów</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>21.243095,49.568424,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marcinkowice</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff" style="font-size:10pt;background-color:rgb(255, 255, 255)"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</a></font></div><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>
+</div>]]></description>
+    <styleUrl>#style180</styleUrl>
+    <Point>
+      <coordinates>20.644684,49.670071,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Męcina</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>20.561600,49.680515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Męcina Wielka</name>
+    <description><![CDATA[<div><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>21.264381,49.622276,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Michałowice</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style137</styleUrl>
+    <Point>
+      <coordinates>19.977264,50.161064,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Miechów</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" target="_blank"><font color="#3333ff">Szlak Bożogrobców</font></a></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a></div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>20.027647,50.356358,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mizerna</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style159</styleUrl>
+    <Point>
+      <coordinates>20.288830,49.458420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mników</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a>]]></description>
+    <styleUrl>#style146</styleUrl>
+    <Point>
+      <coordinates>19.730759,50.062206,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mochnaczka</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div style="font-family:arial"><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a></div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>20.997276,49.442680,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Modlnica</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>19.870148,50.127182,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mogiła</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div>]]></description>
+    <styleUrl>#style162</styleUrl>
+    <Point>
+      <coordinates>20.052967,50.060226,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muchówka</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>20.448303,49.857021,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Murzasichle</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>20.040436,49.297367,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muszyna</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>20.898056,49.356888,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muszynka</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div style="font-family:arial"><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>21.082420,49.379246,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nawojowa</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>20.739098,49.567085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Niedzica</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>20.303936,49.413094,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Niedźwiedź</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a><br>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>20.085754,49.622498,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Niepołomice</name>
+    <description><![CDATA[<span style="font-weight:bold"><span style="font-family:trebuchet ms"><span style="color:rgb(0, 204, 204)">Szlaki kulturowe</span></span></span><br style="font-family:trebuchet ms">
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/03/22/solny-szlak/" style="font-family:trebuchet ms;color:rgb(51, 51, 255)" target="_blank">Solny szlak</a>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>20.221624,50.040646,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nowe Bystre</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>19.922848,49.338322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nowy Sącz</name>
+    <description><![CDATA[<div dir="ltr"><p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><b><font color="#00cccc" face="&#39;trebuchet ms&#39;">Szlaki
+kulturowe</font></b></span></p><p style="font-family:arial;font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/06/12/szlak-gniazd-rodowych-lubomirskich-woj-podkarpackie-i-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Gniazd Rodowych Lubomirskich (woj. małopolskie i podkarpackie)</font></a>
+</p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/03/08/szlak-dworow-malopolskich/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak
+Dworów Małopolskich</font></a></span></p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Śladami
+Żydów Małopolskich</font></a></span></p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/http:/szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Międzykulturowy
+Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></span></p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak
+Frontu Wschodniego I Wojny Światowej</font></a></span></p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><b><font color="#00cccc" face="&#39;trebuchet ms&#39;">Ruszaj
+w Małopolskę!</font></b></span></p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/05/31/ruszaj-w-malopolske-spacer-po-poludniowej-czesci-nowego-sacza/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Spacer
+po południowej części Nowego Sącza</font></a></span></p>
+
+<p style="font-family:arial;font-size:10pt"><span style="font-size:10pt"><font color="#3333ff" face="&#39;trebuchet ms&#39;"><a href="http://szlakimalopolski.mik.krakow.pl/2011/07/05/ruszaj-w-malopolske-spacer-sladami-kultury-zydowskiej-w-nowym-saczu/" target="_blank">Spacer
+śladami kultury żydowskiej w Nowym Sączu</a></font></span><font size="2"><span style="font-size:10.0pt"></span></font></p><p></p><p style="font-family:arial;font-size:10pt"><font face="&#39;trebuchet ms&#39;" size="2"><b><font color="#00cccc">Gry M!K</font></b></font></p><p style="font-family:arial;font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/pierscien-sw-kingi-2007-cykl-gier-terenowych/" style="font-size:small" target="_blank"><font color="#3333ff">Pierścień św. Kingi 2007– cykl gier terenowych</font></a></p><p style="font-family:arial;font-size:10pt"><font face="&#39;trebuchet ms&#39;" size="2"><font color="#0000ff">&nbsp;&nbsp;</font></font></p><p></p></div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>20.691420,49.623611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nowy Wiśnicz</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;" style="font-family:arial"><b>Szlaki kulturowe</b></font><div><font face="&#39;trebuchet ms&#39;" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" target="_blank">Śladami Żydów Małopolskich</a></font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/06/12/szlak-gniazd-rodowych-lubomirskich-woj-podkarpackie-i-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Gniazd Rodowych Lubomirskich (woj. małopolskie i podkarpackie)</font></a></div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>20.466843,49.913651,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Odrowąż</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a><span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"><br></span></span></span>]]></description>
+    <styleUrl>#style141</styleUrl>
+    <Point>
+      <coordinates>19.858475,49.501133,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Olkusz</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/09/via-regia-w-malopolsce/" style="color:rgb(51, 51, 255)" target="_blank"><span style="font-weight:bold;color:rgb(0, 204, 204)"></span></a><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/09/via-regia-w-malopolsce/" style="color:rgb(51, 51, 255)" target="_blank">Via Regia</a></font><div><b><font face="&#39;trebuchet ms&#39;" color="#00cccc">Gry M!K</font></b></div><div><span style="font-size:12px;line-height:18px;background-color:rgb(255, 255, 255)"><a href="http://szlakimalopolski.mik.krakow.pl/olkusz-2/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Olkusz²</font></a></span>
+</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>19.560900,50.279633,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Olsztyn</name>
+    <description><![CDATA[<strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span></strong><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><strong style="font-family:trebuchet ms"><font color="#00cccc"><br></font></strong></a><strong style="font-family:trebuchet ms"><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/14/europejski-szlak-gotyku-ceglanego/" target="_blank"><span style="font-weight:normal;color:rgb(51, 51, 255)">Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)</span></a></strong>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>20.496368,53.773067,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Orawka</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>
+</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>19.720116,49.511166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oświęcim</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Małopolska Trasa UNESCO</a><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" style="font-family:trebuchet ms;color:rgb(51, 51, 255)" target="_blank">Śladami Żydów małopolskich</a><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a><br>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>19.204788,50.037075,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Owczary</name>
+    <description><![CDATA[<div><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>21.175461,49.593800,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pieskowa Skała</name>
+    <description><![CDATA[<b><font color="#00cccc" face="&#39;trebuchet ms&#39;">Szlaki kulturowe</font></b><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/07/06/szlak-renesansu-2011/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Renesansu 2011</font></a></div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>19.779167,50.245010,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Piorunka</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div style="font-family:arial"><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a></div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>20.991440,49.490433,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Płock</name>
+    <description><![CDATA[<strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span></strong><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><strong style="font-family:trebuchet ms"><font color="#00cccc"><br></font></strong></a><strong style="font-family:trebuchet ms"><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/14/europejski-szlak-gotyku-ceglanego/" target="_blank"><span style="font-weight:normal;color:rgb(51, 51, 255)">Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)</span></a></strong>]]></description>
+    <styleUrl>#style163</styleUrl>
+    <Point>
+      <coordinates>19.691620,52.552139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Podegrodzie</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>20.591469,49.576103,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Polany</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" style="font-size:10pt" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a>]]></description>
+    <styleUrl>#style167</styleUrl>
+    <Point>
+      <coordinates>20.990410,49.524761,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Poręba Wielka</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe</span></span></span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/19/szlak-mlodopolska-malopolska/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Młodopolska Małopolska</a>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>20.062752,49.606930,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Poronin</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>20.006104,49.337650,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Poręba Spytkowska</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>20.556793,49.938187,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Powroźnik</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div style="font-family:arial"><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>20.947151,49.372089,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prandocin</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;" style="font-family:arial"><b>Szlaki kulturowe</b></font><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Cysterski</font></a></div><div style="font-family:arial"><font face="&#39;trebuchet ms&#39;" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank">Południowo-zachodni Szlak Cysterski</a></font></div><div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div></div>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>20.077515,50.267838,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Proszowice</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlak kulturowy</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/28/szlak-schronow-ii-wojny-swiatowej-stellung-proszowice-woj-malopolskie/" target="_blank"><font face="trebuchet ms" color="#3333ff">Szlak Schronów II Wojny Światowej Stellung - Proszowice (woj. małopolskie)</font></a></div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>20.296555,50.191849,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prądnik Korzkiewski</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>19.855385,50.169971,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Przyborów</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>20.664940,50.029137,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ptaszkowa</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>20.890160,49.602699,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Raba Wyżna</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style157</styleUrl>
+    <Point>
+      <coordinates>19.881821,49.568424,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rabka</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>19.949455,49.609375,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ropica Górna</name>
+    <description><![CDATA[<div><font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff" style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style155</styleUrl>
+    <Point>
+      <coordinates>21.225929,49.600254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ropica Polska</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Karpacko-Galicyjski Szlak Naftowy</font></a></div>]]></description>
+    <styleUrl>#style149</styleUrl>
+    <Point>
+      <coordinates>21.142845,49.640068,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rożnów</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><span style="color:rgb(51, 51, 255)"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/19/szlak-mlodopolska-malopolska/" style="color:rgb(51, 51, 255)" target="_blank">Szlak Młodopolska Małopolska</a></span><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>
+</div>]]></description>
+    <styleUrl>#style160</styleUrl>
+    <Point>
+      <coordinates>20.693436,49.770733,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rudno</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>19.572487,50.098782,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rytro</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff" style="font-size:10pt;background-color:rgb(255, 255, 255)"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</a></font></div><div style="font-size:10pt"><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font>
+</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>20.676613,49.490875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rzeplin</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style181</styleUrl>
+    <Point>
+      <coordinates>19.909286,50.211735,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sanok</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak naftowy</a>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>22.209549,49.557289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sękowa</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/wp-content/uploads/SZLAK_MALOP_2-baner-300x50.jpg" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Małopolska Trasa UNESCO</a>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>21.195374,49.627171,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sidzina</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>]]></description>
+    <styleUrl>#style190</styleUrl>
+    <Point>
+      <coordinates>19.711189,49.591797,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Siedliska</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Bożogrobców</a>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>20.019836,50.379189,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skała</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>19.854355,50.231834,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skwirtne</name>
+    <description><![CDATA[<div style="font-family:arial"><b><font face="trebuchet ms" color="#00cccc">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>21.191597,49.491322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sławice</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Bożogrobców</a>]]></description>
+    <styleUrl>#style168</styleUrl>
+    <Point>
+      <coordinates>20.077858,50.319820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sławków</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/19/oficjalna-prezentacja-szlaku-malopolska-droga-sw-jakuba/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Droga św. Jakuba w Małopolsce</font></a></div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>19.382629,50.304691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Staniątki</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/19/oficjalna-prezentacja-szlaku-malopolska-droga-sw-jakuba/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Droga św. Jakuba w Małopolsce</font></a></div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>20.176392,50.012154,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stary Sącz</name>
+    <description><![CDATA[<div><span style="color:rgb(0, 204, 204)"><b><font face="trebuchet ms">Turystyczna Trasa Miejska</font></b></span></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/06/26/starosadecki-szlak-tischnerowski/" target="_blank"><font color="#000099" face="trebuchet ms">Starosądecki Szlak Tischnerowski</font></a></div><font face="trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">SpacerowM!K</span><br><font color="#3333ff"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/05/03/starosadecka-ikonografia-sw-kingi-%E2%80%93-trasa-spacerowa-po-starym-saczu/" target="_blank">Starosądecka ikonografia św. Kingi</a><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/07/12/sredniowieczna-perla-beskidow-%E2%80%93-trasa-spacerowa-po-starym-saczu/" target="_blank">Średniowieczna perła Beskidów</a><br></font></font><div><font face="trebuchet ms"><font size="2" color="#3333ff" style="font-size:10pt;background-color:rgb(255, 255, 255)"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</a></font>
+</font></div><div><p><font face="&#39;trebuchet ms&#39;" size="2"><b><font color="#00cccc">Gry M!K</font></b></font></p><p><span style="color:blue"><font face="&#39;trebuchet ms&#39;" size="2"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-miejsca-cykl-gier-terenowych/" target="_blank">Średniowieczne miejsca – cykl gier terenowych</a></font></span></p><p><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-profesje-cykl-gier-terenowych/" target="_blank">Średniowieczne profesje – cykl gier terenowych</a></font></p><p><font face="&#39;trebuchet ms&#39;" size="2"><a href="http://szlakimalopolski.mik.krakow.pl/pierscien-sw-kingi-2007-cykl-gier-terenowych/" target="_blank"><font color="#3333ff">Pierścień św. Kingi 2007– cykl gier terenowych</font></a><br><font color="#0000ff">&nbsp;&nbsp;</font></font></p></div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>20.626831,49.560852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Staszkówka</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>]]></description>
+    <styleUrl>#style178</styleUrl>
+    <Point>
+      <coordinates>21.025772,49.755096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stróże</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>20.966034,49.661182,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sucha Beskidzka</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/23/szlak-renesansu-2010/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Renesansu 2010</font></a></div><div><font face="&#39;trebuchet ms&#39;" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2011/07/06/szlak-renesansu-2011/" target="_blank">Szlak Renesansu 2011</a></font></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>19.555664,49.737793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sucha Struga</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>20.683479,49.477047,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Świdnik</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>20.625458,49.713825,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szczawnica</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" target="_blank"><font color="#3333ff">Szlak dziedzictwa kulturowego Podtatrza</font></a><span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-weight:bold"><br>Turystyczne trasy miejskie<br></span></span></span></span><span><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/15/szlak-godel-szalayowskich-w-szczawnicy/" target="_blank"><font color="#3333ff">Szlak godeł Szalayowskich</font></a></span><span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-weight:bold"><br></span></span></span></span>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>20.480146,49.426620,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szczawnik</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>20.863380,49.380810,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szczecin</name>
+    <description><![CDATA[<strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span></strong><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><strong style="font-family:trebuchet ms"><font color="#00cccc"><br></font></strong></a><strong style="font-family:trebuchet ms"><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/14/europejski-szlak-gotyku-ceglanego/" target="_blank"><span style="font-weight:normal;color:rgb(51, 51, 255)">Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)</span></a></strong>]]></description>
+    <styleUrl>#style140</styleUrl>
+    <Point>
+      <coordinates>14.555511,53.426311,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szczyrzyc</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Cysterski</font></a></div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Południowo-zachodni Szlak Cysterski</font></a></div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>20.186176,49.783813,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szklarska Poręba</name>
+    <description><![CDATA[<b><font color="#00cccc" face="&#39;trebuchet ms&#39;">Turystyczne trasy miejskie</font></b><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/06/01/magiczny-szlak-ducha-gor-w-szklarskiej-porebie/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Magiczny Szlak Ducha Gór</font></a></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>15.490723,50.826759,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szyk</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank">Małopolska Wieś Pachnąca Ziołami</a></font></div><div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>
+</div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>20.298615,49.788357,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Szymbark</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/09/21/szlak-naftowy/" target="_blank"><font color="#3366ff" face="&#39;trebuchet ms&#39;">Karpacko-Galicyjski Szlak Naftowy</font></a></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>21.092377,49.619610,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tarnów</name>
+    <description><![CDATA[<p><font size="2" face="&#39;trebuchet ms&#39;"><b><span style="color:rgb(0, 204, 204)">Szlaki kulturowe</span></b><span style="color:rgb(51, 51, 255)"><br>
+</span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/04/13/szlak-cmentarzy-wojennych-i-wojny-swiatowej/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak cmentarzy I wojny światowej</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/05/sladami-zydow-malopolskich/" target="_blank"><span style="color:rgb(51, 51, 255)">Śladami Żydów małopolskich</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/23/szlak-renesansu-2010/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Renesansu</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/09/via-regia-w-malopolsce/" target="_blank"><span style="color:rgb(51, 51, 255)">Via Regia</span></a><br>
+<b><span style="color:rgb(0, 204, 204)">Turystyczne trasy miejskie</span></b><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/29/tarnowskie-trasy-miejskie/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak Józefa Szczepanika<br>
+Szlak generała Józefa Bema<br>
+Szlak renesansu<br>
+Szlak tarnowskich Żydów</span></a><br>
+<b><span style="color:rgb(0, 204, 204)">Ruszaj w Małopolskę!</span></b><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/06/07/ruszaj-w-malopolske-sladami-tarnowskich-zydow/" target="_blank"><span style="color:rgb(51, 51, 255)">Śladami tarnowskich Żydów</span></a><br>
+<a href="http://www.szlakimalopolski.mik.krakow.pl/2011/06/21/ruszaj-w-malopolske-szlak-renesansu-w-tarnowie/" target="_blank"><span style="color:rgb(51, 51, 255)">Szlak renesansu</span></a></font></p>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>20.987986,50.012650,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tęgoborze</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>20.643997,49.709606,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Toruń</name>
+    <description><![CDATA[<strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span></strong><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><strong style="font-family:trebuchet ms"><font color="#00cccc"><br></font></strong></a><strong style="font-family:trebuchet ms"><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><span style="font-weight:bold"></span></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/14/europejski-szlak-gotyku-ceglanego/" target="_blank"><span style="font-weight:normal;color:rgb(51, 51, 255)">Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)</span></a></strong>]]></description>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>18.617706,53.019741,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Trybsz</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Szlak Cysterski</font></a></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/22/poludniowo-zachodni-szlak-cysterski-woj-malopolskie-slaskie-opolskie-wielkopolskie-dolnoslaskie/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Południowo-zachodni Szlak Cysterski</font></a></div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>20.134506,49.409634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tuchów</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/19/oficjalna-prezentacja-szlaku-malopolska-droga-sw-jakuba/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Droga św. Jakuba w Małopolsce</font></a></div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>21.045685,49.900826,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tylicz</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255)" target="_blank">Krynicki Szlak Cerkwi Łemkowskich</a></font><div><font face="trebuchet ms"><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a>&nbsp;</font></div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś dla Dzieci</font></a>&nbsp;<font face="trebuchet ms"><br></font><div style="font-family:arial"><font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Ruszaj w Małopolskę!</b></font></div><div style="font-family:arial"><a href="http://szlakimalopolski.mik.krakow.pl/2011/11/15/ruszaj-w-malopolske-szlak-cerkwi-lemkowskich-w-okolicach-krynicy/" target="_blank"><font face="&#39;trebuchet ms&#39;" color="#3333ff">Krynicki Szlak Cerkwi Łemkowskich</font></a></div></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>21.025772,49.397121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tyniec</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a>
+</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>19.811783,50.015240,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Uniejów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Bożogrobców</a>]]></description>
+    <styleUrl>#style143</styleUrl>
+    <Point>
+      <coordinates>19.950657,50.407753,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Uście Gorlickie</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>21.141815,49.518967,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wąchock</name>
+    <description><![CDATA[<strong style="font-family:trebuchet ms"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></strong><a title="Edit “Europejski Szlak Gotyku Ceglanego (woj. zachodniopomorskie, pomorskie, warmińsko-mazurskie, kujawsko-pomorskie)”" href="http://www.szlakimalopolski.mik.krakow.pl/wp-admin/post.php?post=1709&amp;action=edit" target="_blank"><strong></strong><strong></strong></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/11/30/szlak-cysterski/" target="_blank"><strong style="font-family:trebuchet ms;color:rgb(51, 51, 255);font-weight:normal"></strong></a><strong style="font-family:trebuchet ms;color:rgb(51, 51, 255);font-weight:normal"><a title="Edit “Szlak Cysterski”" target="_blank">Szlak Cysterski</a></strong>]]></description>
+    <styleUrl>#style170</styleUrl>
+    <Point>
+      <coordinates>21.012554,51.074627,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wieliczka</name>
+    <description><![CDATA[<p style="font-family:arial;font-size:10pt"></p><p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10pt"><b><font color="#00cccc">Szlaki
+kulturowe</font></b></span><font size="2"><span style="font-size:10pt"></span></font></font></p><p><font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Szlak Frontu Wschodniego I Wojny Światowej</font></a>
+</p>
+
+<p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10.0pt;color:#3333FF"><a href="http://szlakimalopolski.mik.krakow.pl/2010/10/05/malopolska-trasa-unesco/" target="_blank">Małopolska
+Trasa UNESCO</a></span><span style="font-size:10pt"></span></font></p>
+
+
+
+<p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10.0pt;color:#3333FF"><a href="http://szlakimalopolski.mik.krakow.pl/2011/03/22/solny-szlak/" target="_blank">Solny
+Szlak</a></span><span style="font-size:10pt"></span></font></p>
+
+
+
+<p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10.0pt;color:#3333FF"><a href="http://www.tarnow.pttk.pl/szlaki_tematyczne/szlak01/index.php?id=informacje" target="_blank"><span style="background:white;text-decoration:none"><span>Szlak Front Wschodniego I Wojny Światowej</span></span></a></span><span style="font-size:10pt"></span></font></p>
+
+<p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10.0pt;color:#3333FF">SpacerowM!K</span><span style="font-size:10pt"></span></font></p>
+
+<p><span style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/06/28/szlakiem-ikonografii-swietych-trasa-spacerowa-po-wieliczce/" target="_blank"><span style="color:#3333FF"><font face="&#39;trebuchet ms&#39;">Szlakiem ikonografii świętych – trasa spacerowa po
+Wieliczce</font></span></a></span></p>
+
+<p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10.0pt;color:#3333FF"><a href="http://szlakimalopolski.mik.krakow.pl/2011/10/11/spacerowmk-szlakiem-wielickich-zabytkow-trasa-spacerowa-po-wieliczce/" target="_blank">Szlakiem wielickich zabytków – trasa
+spacerowa po Wieliczce</a></span><span style="font-size:10pt"></span></font></p>
+
+<p><font face="&#39;trebuchet ms&#39;"><span style="font-size:10pt"><font color="#00cccc"><b>Gry M!K</b></font></span><span style="font-size:10pt"></span></font></p>
+
+<p><span style="font-size:10pt"><span style="color:#3333FF"><a href="http://szlakimalopolski.mik.krakow.pl/sredniowieczne-profesje-cykl-gier-terenowych/" title="Permanent Link to Średniowieczne profesje – cykl gier terenowych" target="_blank"><font face="&#39;trebuchet ms&#39;">Średniowieczne profesje – cykl gier terenowych</font></a></span></span></p><p style="font-family:arial"><span style="font-size:10pt"><br></span></p><p style="font-family:arial"></p>]]></description>
+    <styleUrl>#style135</styleUrl>
+    <Point>
+      <coordinates>20.059919,49.982193,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wielka Wieś</name>
+    <description><![CDATA[<div><b><font color="#00cccc" face="trebuchet ms">Szlaki kulturowe</font></b></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank">Małopolska Wieś dla Dzieci</a></font>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>19.840622,50.159306,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wierchomla Wielka</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style145</styleUrl>
+    <Point>
+      <coordinates>20.765190,49.413208,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Więcławice Stare</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style186</styleUrl>
+    <Point>
+      <coordinates>20.019836,50.155510,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wojnicz</name>
+    <description><![CDATA[<p style="font-family:arial;font-size:10pt"><font face="&#39;trebuchet ms&#39;" size="2"><b><font color="#00cccc">Gry M!K</font></b></font></p><p style="font-family:arial;font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/pierscien-sw-kingi-2007-cykl-gier-terenowych/" style="font-size:small" target="_blank"><font color="#3333ff">Pierścień św. Kingi 2007– cykl gier terenowych</font></a></p><p style="font-family:arial;font-size:10pt"><font face="&#39;trebuchet ms&#39;" size="2"><font color="#0000ff">&nbsp;&nbsp;</font></font></p>]]></description>
+    <styleUrl>#style150</styleUrl>
+    <Point>
+      <coordinates>20.846558,49.964474,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wrocimowice</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms">Szlaki kulturowe</span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/08/szlak-bozogrobcow/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Bożogrobców</a>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>20.242996,50.299648,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wrocław</name>
+    <description><![CDATA[<span style="color:rgb(0, 204, 204);font-weight:bold"><span style="font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"><span style="font-family:trebuchet ms">Turystyczne trasy miejskie</span><br style="font-family:trebuchet ms"></span></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/03/trasa-sladami-eberharda-mocka-wroclaw/" style="color:rgb(51, 51, 255)" target="_blank"><strong style="font-family:trebuchet ms;font-weight:normal"></strong></a><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/03/trasa-sladami-eberharda-mocka-wroclaw/" style="color:rgb(51, 51, 255)" target="_blank"><strong style="font-family:trebuchet ms;font-weight:normal"></strong></a><strong style="font-family:trebuchet ms;font-weight:normal"><a title="Edit “Śladami Eberharda Mocka po Wrocławiu”" target="_blank">Śladami Eberharda Mocka po Wrocławiu</a></strong><br><span style="color:rgb(0, 204, 204);font-weight:bold"><span style="font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"></span></span><span style="text-decoration:underline"><br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/12/28/krynicki-szlak-cerkwi-lemkowskich/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank"></a>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>17.038851,51.111820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wygiełzów</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204)"><span style="font-family:trebuchet ms">Szlaki kulturowe</span></span><br style="font-family:trebuchet ms"><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/02/22/krakow-morawy-wieden-greenways/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Kraków-Morawy-Wiedeń Greenways</a><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a><br>]]></description>
+    <styleUrl>#style172</styleUrl>
+    <Point>
+      <coordinates>19.434643,50.074768,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wysocice</name>
+    <description><![CDATA[<font color="#00cccc" face="&#39;trebuchet ms&#39;"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2011/09/28/malopolska-romanska/" target="_blank"><font color="#3333ff" face="&#39;trebuchet ms&#39;">Małopolska Romańska</font></a></div>]]></description>
+    <styleUrl>#style164</styleUrl>
+    <Point>
+      <coordinates>19.921303,50.284073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wysowa</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc"><b>Szlaki kulturowe</b></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś Pachnąca Ziołami</font></a></div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>21.171169,49.446365,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wytrzyszczka</name>
+    <description><![CDATA[<span style="font-size:10pt;color:rgb(0, 204, 204);font-weight:bold"><span>Szlaki kulturowe</span></span><div style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2012/01/10/miedzykulturowy-szlak-turystyczny-pogranicza-polsko-slowackiego/" style="font-size:10pt;background-color:rgb(255, 255, 255)" target="_blank"><font face="&#39;trebuchet ms&#39;" size="2" color="#3333ff">Międzykulturowy Szlak Turystyczny Pogranicza Polsko-Słowackiego</font></a></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>20.643311,49.796558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ząb</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>19.949112,49.337540,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zabierzów Bocheński</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>20.306168,50.064194,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zalipie</name>
+    <description><![CDATA[<span style="font-family:trebuchet ms;color:rgb(0, 204, 204);font-weight:bold">Szlaki kulturowe</span><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/08/17/szlak-tradycyjnego-rzemiosla-malopolski/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Tradycyjnego Rzemiosła Małopolski</a>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>20.833511,50.235348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zakliczyn</name>
+    <description><![CDATA[<font face="&#39;trebuchet ms&#39;"><span style="font-weight:bold;color:rgb(0, 204, 204)">Szlaki kulturowe</span><br></font><font color="#3333ff" face="&#39;trebuchet ms&#39;" style="font-size:10pt"><a href="http://szlakimalopolski.mik.krakow.pl/2011/12/01/szlak-frontu-wschodniego-i-wojny-swiatowej-woj-malopolskie-lodzkie-warminsko-mazurskie-podlaskie-mazowieckie-swietokrzyskie-lubelskie-i-podkarpackie/" style="font-size:10pt" target="_blank">Szlak Frontu Wschodniego I Wojny Światowej</a></font><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś dla Dzieci</font></a>
+</div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>20.813599,49.855251,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zakopane</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a><br><a href="http://www.szlakimalopolski.mik.krakow.pl/2011/04/19/szlak-mlodopolska-malopolska/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak Młodopolska Małopolska</a><br><span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"></span></span></span>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>19.954262,49.295185,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zawoja</name>
+    <description><![CDATA[<div><font color="#33ccff" face="trebuchet ms"><b>Szlaki kulturowe</b></font></div><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/05/11/szlak-architektury-drewnianej-woj-malopolskie/" target="_blank">Szlak Architektury Drewnianej (woj. małopolskie)</a></font>]]></description>
+    <styleUrl>#style151</styleUrl>
+    <Point>
+      <coordinates>19.533691,49.638287,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zubrzyca Górna</name>
+    <description><![CDATA[<span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold">Szlaki kulturowe<br></span></span></span><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/06/15/szlak-dziedzictwa-kulturowego-podtatrza/" style="color:rgb(51, 51, 255);font-family:trebuchet ms" target="_blank">Szlak dziedzictwa kulturowego Podtatrza</a><span style="font-weight:bold;color:rgb(0, 204, 204);font-family:trebuchet ms"><span style="font-weight:bold"><span style="font-weight:bold"><br></span></span></span>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>19.633942,49.567978,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Żegocina</name>
+    <description><![CDATA[<font face="trebuchet ms" color="#00cccc" style="font-family:arial"><b>Szlaki kulturowe</b></font><div style="font-family:arial"><font face="trebuchet ms" color="#3333ff"><a href="http://szlakimalopolski.mik.krakow.pl/2012/02/21/malopolska-wies-pachnaca-ziolami/" target="_blank">Małopolska Wieś Pachnąca Ziołami</a></font></div><div style="font-family:arial"><font face="trebuchet ms" color="#3333ff"><a href="http://www.szlakimalopolski.mik.krakow.pl/2010/04/13/szlak-cmentarzy-wojennych-i-wojny-swiatowej/" target="_blank">Szlak cmentarzy I wojny światowej</a></font>
+</div><div><a href="http://szlakimalopolski.mik.krakow.pl/2012/03/20/malopolska-wies-dla-dzieci/" target="_blank"><font face="trebuchet ms" color="#3333ff">Małopolska Wieś dla Dzieci</font></a></div>]]></description>
+    <styleUrl>#style173</styleUrl>
+    <Point>
+      <coordinates>20.420151,49.813843,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
